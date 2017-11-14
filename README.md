@@ -7,3 +7,5 @@
 
 运行：tyre-spider-python/spider-tyre/spider/目录下， cmd输入：python mlt-spider.py
 
+数据库在spider/database/下，需要在spider/config.py修改数据库账号密码。
+
