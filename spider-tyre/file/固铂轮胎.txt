@@ -8,3 +8,7 @@
 /product/6524.html
 /product/6525.html
 /product/6526.html
+/product/6507.html
+/product/6516.html
+/product/6539.html
+/product/6546.html

@@ -12,9 +12,10 @@ url = "http://www.mailuntai.cn"
 
 def threadSpider(brand,url2):   #获取到brand
     fname = brand+".txt"
-    path ="C:/Users/Administrator/PycharmProjects/spider-tyre/file/"+fname
-    fobj = open(path,'w+')
+    path ="../file/"+fname
+    fobj = open(path,'a+')
     fileList = fobj.read().splitlines()
+    print fileList
     fobj.close()
     obj = GetObj(url2)
     html = obj.gethtml()

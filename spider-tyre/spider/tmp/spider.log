@@ -4703,3 +4703,1037 @@
 2017-11-14 14:30:40,441  mlt-spider.py  [line:106] INFO  traction:N/A
 2017-11-14 14:30:40,441  mlt-spider.py  [line:109] INFO  highTemperature:N/A
 2017-11-14 14:30:40,477  mlt-spider.py  [line:118] INFO  finish:普利司通轮胎
+2017-11-14 14:58:19,141  mlt-spider.py  [line:136] INFO  start spider!
+2017-11-14 14:58:20,124  mlt-spider.py  [line:127] INFO  固特异轮胎 开始爬取
+2017-11-14 14:58:20,124  mlt-spider.py  [line:127] INFO  米其林轮胎 开始爬取
+2017-11-14 14:58:20,125  mlt-spider.py  [line:127] INFO  倍耐力轮胎 开始爬取
+2017-11-14 14:58:20,125  mlt-spider.py  [line:127] INFO  马牌轮胎 开始爬取
+2017-11-14 14:58:20,127  mlt-spider.py  [line:127] INFO  邓禄普轮胎 开始爬取
+2017-11-14 14:58:20,127  mlt-spider.py  [line:127] INFO  普利司通轮胎 开始爬取
+2017-11-14 14:58:20,127  mlt-spider.py  [line:127] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 14:58:20,128  mlt-spider.py  [line:127] INFO  韩泰轮胎 开始爬取
+2017-11-14 14:58:20,128  mlt-spider.py  [line:127] INFO  固铂轮胎 开始爬取
+2017-11-14 14:58:20,128  mlt-spider.py  [line:138] INFO  finish spider!
+2017-11-14 14:58:52,007  mlt-spider.py  [line:136] INFO  start spider!
+2017-11-14 14:58:53,036  mlt-spider.py  [line:127] INFO  固特异轮胎 开始爬取
+2017-11-14 14:58:53,036  mlt-spider.py  [line:127] INFO  米其林轮胎 开始爬取
+2017-11-14 14:58:53,038  mlt-spider.py  [line:127] INFO  倍耐力轮胎 开始爬取
+2017-11-14 14:58:53,038  mlt-spider.py  [line:127] INFO  马牌轮胎 开始爬取
+2017-11-14 14:58:53,038  mlt-spider.py  [line:127] INFO  邓禄普轮胎 开始爬取
+2017-11-14 14:58:53,039  mlt-spider.py  [line:127] INFO  普利司通轮胎 开始爬取
+2017-11-14 14:58:53,039  mlt-spider.py  [line:127] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 14:58:53,039  mlt-spider.py  [line:127] INFO  韩泰轮胎 开始爬取
+2017-11-14 14:58:53,039  mlt-spider.py  [line:127] INFO  固铂轮胎 开始爬取
+2017-11-14 14:58:53,040  mlt-spider.py  [line:138] INFO  finish spider!
+2017-11-14 14:59:32,571  mlt-spider.py  [line:136] INFO  start spider!
+2017-11-14 14:59:33,648  mlt-spider.py  [line:127] INFO  固特异轮胎 开始爬取
+2017-11-14 14:59:33,657  mlt-spider.py  [line:127] INFO  米其林轮胎 开始爬取
+2017-11-14 14:59:33,658  mlt-spider.py  [line:127] INFO  倍耐力轮胎 开始爬取
+2017-11-14 14:59:33,661  mlt-spider.py  [line:127] INFO  马牌轮胎 开始爬取
+2017-11-14 14:59:33,667  mlt-spider.py  [line:127] INFO  邓禄普轮胎 开始爬取
+2017-11-14 14:59:33,668  mlt-spider.py  [line:127] INFO  普利司通轮胎 开始爬取
+2017-11-14 14:59:33,673  mlt-spider.py  [line:127] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 14:59:33,674  mlt-spider.py  [line:127] INFO  韩泰轮胎 开始爬取
+2017-11-14 14:59:33,680  mlt-spider.py  [line:127] INFO  固铂轮胎 开始爬取
+2017-11-14 14:59:33,680  mlt-spider.py  [line:138] INFO  finish spider!
+2017-11-14 14:59:40,118  mlt-spider.py  [line:136] INFO  start spider!
+2017-11-14 14:59:41,223  mlt-spider.py  [line:127] INFO  固特异轮胎 开始爬取
+2017-11-14 14:59:41,223  mlt-spider.py  [line:127] INFO  米其林轮胎 开始爬取
+2017-11-14 14:59:41,226  mlt-spider.py  [line:127] INFO  倍耐力轮胎 开始爬取
+2017-11-14 14:59:41,230  mlt-spider.py  [line:127] INFO  马牌轮胎 开始爬取
+2017-11-14 14:59:41,233  mlt-spider.py  [line:127] INFO  邓禄普轮胎 开始爬取
+2017-11-14 14:59:41,234  mlt-spider.py  [line:127] INFO  普利司通轮胎 开始爬取
+2017-11-14 14:59:41,984  mlt-spider.py  [line:29] INFO  streak:ST30 
+2017-11-14 14:59:42,312  mlt-spider.py  [line:29] INFO  streak:P7cint 
+2017-11-14 14:59:43,147  mlt-spider.py  [line:43] INFO  name:邓禄普 Dunlop ST30 225/65R17 101H
+2017-11-14 14:59:43,177  mlt-spider.py  [line:59] INFO  tyreID: 6167 exists 
+2017-11-14 14:59:43,178  mlt-spider.py  [line:110] INFO  finish:邓禄普轮胎
+2017-11-14 14:59:43,180  mlt-spider.py  [line:127] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 14:59:44,019  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato R-F *新P7 225/45R18 91W
+2017-11-14 14:59:44,029  mlt-spider.py  [line:59] INFO  tyreID: 6343 exists 
+2017-11-14 14:59:44,030  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato R-F* 新P7 225/55R17 97Y
+2017-11-14 14:59:44,039  mlt-spider.py  [line:59] INFO  tyreID: 6402 exists 
+2017-11-14 14:59:44,039  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato XL 新P7 215/50R17 95W
+2017-11-14 14:59:44,055  mlt-spider.py  [line:59] INFO  tyreID: 6323 exists 
+2017-11-14 14:59:44,058  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 225/50R17 94W
+2017-11-14 14:59:44,069  mlt-spider.py  [line:59] INFO  tyreID: 6328 exists 
+2017-11-14 14:59:44,071  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 245/50R18 100W
+2017-11-14 14:59:44,076  mlt-spider.py  [line:59] INFO  tyreID: 6344 exists 
+2017-11-14 14:59:44,078  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 225/45R17 91W
+2017-11-14 14:59:44,085  mlt-spider.py  [line:59] INFO  tyreID: 6326 exists 
+2017-11-14 14:59:44,085  mlt-spider.py  [line:29] INFO  streak:P4four 
+2017-11-14 14:59:44,426  mlt-spider.py  [line:29] INFO  streak:CC5 
+2017-11-14 14:59:45,102  mlt-spider.py  [line:29] INFO  streak:B250 
+2017-11-14 14:59:45,615  mlt-spider.py  [line:29] INFO  streak:ENERGY XM2 
+2017-11-14 14:59:46,006  mlt-spider.py  [line:29] INFO  streak:MA501 
+2017-11-14 14:59:46,059  mlt-spider.py  [line:29] INFO  streak:EfficientGrip SUV 
+2017-11-14 14:59:46,191  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P4 Four Seasons P4四季胎 175/65R14 82H
+2017-11-14 14:59:46,197  mlt-spider.py  [line:59] INFO  tyreID: 6288 exists 
+2017-11-14 14:59:46,197  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P4 Four Seasons P4四季胎 215/65R16 98H
+2017-11-14 14:59:46,207  mlt-spider.py  [line:59] INFO  tyreID: 6292 exists 
+2017-11-14 14:59:46,207  mlt-spider.py  [line:29] INFO  streak:SCORPION VERDE 
+2017-11-14 14:59:46,908  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 FR 205/55R16 91V
+2017-11-14 14:59:46,917  mlt-spider.py  [line:59] INFO  tyreID: 4816 exists 
+2017-11-14 14:59:46,918  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 185/65R15 88H
+2017-11-14 14:59:46,936  mlt-spider.py  [line:59] INFO  tyreID: 4802 exists 
+2017-11-14 14:59:46,937  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 195/65R15 91H
+2017-11-14 14:59:46,947  mlt-spider.py  [line:59] INFO  tyreID: 4810 exists 
+2017-11-14 14:59:46,947  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 FR 195/60R16 89H
+2017-11-14 14:59:46,956  mlt-spider.py  [line:59] INFO  tyreID: 4812 exists 
+2017-11-14 14:59:46,957  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 185/60R14 82H
+2017-11-14 14:59:46,964  mlt-spider.py  [line:59] INFO  tyreID: 4795 exists 
+2017-11-14 14:59:46,967  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 FR 195/55R15 85V
+2017-11-14 14:59:46,973  mlt-spider.py  [line:59] INFO  tyreID: 4805 exists 
+2017-11-14 14:59:46,974  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 205/65R15 94V
+2017-11-14 14:59:46,983  mlt-spider.py  [line:59] INFO  tyreID: 4814 exists 
+2017-11-14 14:59:46,984  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 195/60R15 88H
+2017-11-14 14:59:46,993  mlt-spider.py  [line:59] INFO  tyreID: 4807 exists 
+2017-11-14 14:59:46,993  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 FR 215/60R16 95V
+2017-11-14 14:59:47,000  mlt-spider.py  [line:59] INFO  tyreID: 4819 exists 
+2017-11-14 14:59:47,002  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 175/65R14 82H
+2017-11-14 14:59:47,012  mlt-spider.py  [line:59] INFO  tyreID: 4793 exists 
+2017-11-14 14:59:47,012  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 215/65R16 98V
+2017-11-14 14:59:47,019  mlt-spider.py  [line:59] INFO  tyreID: 4823 exists 
+2017-11-14 14:59:47,019  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 185/60R15 84H
+2017-11-14 14:59:47,026  mlt-spider.py  [line:59] INFO  tyreID: 4800 exists 
+2017-11-14 14:59:47,026  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 185/65R14 86H
+2017-11-14 14:59:47,036  mlt-spider.py  [line:59] INFO  tyreID: 4798 exists 
+2017-11-14 14:59:47,038  mlt-spider.py  [line:43] INFO  name:马牌 Continental CC5 205/65R16 95H
+2017-11-14 14:59:47,046  mlt-spider.py  [line:59] INFO  tyreID: 6196 exists 
+2017-11-14 14:59:47,046  mlt-spider.py  [line:29] INFO  streak:MC5 
+2017-11-14 14:59:47,285  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 175/70R14 84H
+2017-11-14 14:59:47,289  mlt-spider.py  [line:59] INFO  tyreID: 5078 exists 
+2017-11-14 14:59:47,290  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 185/65R15 88H
+2017-11-14 14:59:47,299  mlt-spider.py  [line:59] INFO  tyreID: 5077 exists 
+2017-11-14 14:59:47,299  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 165/70R13 79H
+2017-11-14 14:59:47,306  mlt-spider.py  [line:59] INFO  tyreID: 5393 exists 
+2017-11-14 14:59:47,306  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 165/65R13 77H
+2017-11-14 14:59:47,313  mlt-spider.py  [line:59] INFO  tyreID: 5398 exists 
+2017-11-14 14:59:47,315  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 175/70R13 82H
+2017-11-14 14:59:47,321  mlt-spider.py  [line:59] INFO  tyreID: 5395 exists 
+2017-11-14 14:59:47,322  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 175/60R14 79H
+2017-11-14 14:59:47,331  mlt-spider.py  [line:59] INFO  tyreID: 5125 exists 
+2017-11-14 14:59:47,332  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 185/60R15 84H
+2017-11-14 14:59:47,339  mlt-spider.py  [line:59] INFO  tyreID: 5071 exists 
+2017-11-14 14:59:47,341  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 195/60R14 86H
+2017-11-14 14:59:47,348  mlt-spider.py  [line:59] INFO  tyreID: 5122 exists 
+2017-11-14 14:59:47,348  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B250 155/65R13 73H
+2017-11-14 14:59:47,358  mlt-spider.py  [line:59] INFO  tyreID: 5397 exists 
+2017-11-14 14:59:47,361  mlt-spider.py  [line:29] INFO  streak:TURANZA ER33 
+2017-11-14 14:59:47,894  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA501 195/55R15 85V
+2017-11-14 14:59:47,911  mlt-spider.py  [line:59] INFO  tyreID: 6432 exists 
+2017-11-14 14:59:47,911  mlt-spider.py  [line:29] INFO  streak:MA708 
+2017-11-14 14:59:48,046  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/55R16 91V
+2017-11-14 14:59:48,055  mlt-spider.py  [line:59] INFO  tyreID: 4937 exists 
+2017-11-14 14:59:48,055  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/65R15 91V
+2017-11-14 14:59:48,065  mlt-spider.py  [line:59] INFO  tyreID: 4926 exists 
+2017-11-14 14:59:48,065  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/60R16 95H
+2017-11-14 14:59:48,069  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli SCORPION VERDE 蝎子VERDE 255/60R17 106V
+2017-11-14 14:59:48,075  mlt-spider.py  [line:59] INFO  tyreID: 4947 exists 
+2017-11-14 14:59:48,076  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/55R15 85V
+2017-11-14 14:59:48,079  mlt-spider.py  [line:59] INFO  tyreID: 6349 exists 
+2017-11-14 14:59:48,079  mlt-spider.py  [line:29] INFO  streak:P7 
+2017-11-14 14:59:48,088  mlt-spider.py  [line:59] INFO  tyreID: 4920 exists 
+2017-11-14 14:59:48,088  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/60R15 88V
+2017-11-14 14:59:48,095  mlt-spider.py  [line:59] INFO  tyreID: 4922 exists 
+2017-11-14 14:59:48,095  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 175/65R14 82H
+2017-11-14 14:59:48,108  mlt-spider.py  [line:59] INFO  tyreID: 4907 exists 
+2017-11-14 14:59:48,109  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/55R16 93V
+2017-11-14 14:59:48,119  mlt-spider.py  [line:59] INFO  tyreID: 4942 exists 
+2017-11-14 14:59:48,121  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/65R15 94V
+2017-11-14 14:59:48,128  mlt-spider.py  [line:59] INFO  tyreID: 4932 exists 
+2017-11-14 14:59:48,128  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 185/55R15 86H
+2017-11-14 14:59:48,138  mlt-spider.py  [line:59] INFO  tyreID: 6179 exists 
+2017-11-14 14:59:48,138  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/70R15 98H
+2017-11-14 14:59:48,147  mlt-spider.py  [line:59] INFO  tyreID: 4935 exists 
+2017-11-14 14:59:48,150  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/60R15 91V
+2017-11-14 14:59:48,157  mlt-spider.py  [line:59] INFO  tyreID: 6180 exists 
+2017-11-14 14:59:48,157  mlt-spider.py  [line:29] INFO  streak:LATITUDE Tour HP 
+2017-11-14 14:59:48,709  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 215/65R16 98H
+2017-11-14 14:59:48,716  mlt-spider.py  [line:59] INFO  tyreID: 6406 exists 
+2017-11-14 14:59:48,716  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 225/65R17 102H
+2017-11-14 14:59:48,720  mlt-spider.py  [line:59] INFO  tyreID: 6407 exists 
+2017-11-14 14:59:48,721  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 235/55R18 100H
+2017-11-14 14:59:48,727  mlt-spider.py  [line:59] INFO  tyreID: 6414 exists 
+2017-11-14 14:59:48,729  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 245/55R19 103V
+2017-11-14 14:59:48,734  mlt-spider.py  [line:59] INFO  tyreID: 6416 exists 
+2017-11-14 14:59:48,736  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 255/55R18 109V
+2017-11-14 14:59:48,744  mlt-spider.py  [line:59] INFO  tyreID: 6415 exists 
+2017-11-14 14:59:48,744  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 225/60R17 99V
+2017-11-14 14:59:48,752  mlt-spider.py  [line:59] INFO  tyreID: 6404 exists 
+2017-11-14 14:59:48,753  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 215/70R16 100H
+2017-11-14 14:59:48,759  mlt-spider.py  [line:59] INFO  tyreID: 6412 exists 
+2017-11-14 14:59:48,760  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 235/55R19 105V
+2017-11-14 14:59:48,767  mlt-spider.py  [line:59] INFO  tyreID: 6417 exists 
+2017-11-14 14:59:48,767  mlt-spider.py  [line:29] INFO  streak:Excellence 
+2017-11-14 14:59:49,151  mlt-spider.py  [line:43] INFO  name:马牌 Continental MC5 FR 205/55R16 91V
+2017-11-14 14:59:49,157  mlt-spider.py  [line:59] INFO  tyreID: 6254 exists 
+2017-11-14 14:59:49,157  mlt-spider.py  [line:43] INFO  name:马牌 Continental MC5 FR 215/55R16 93V
+2017-11-14 14:59:49,171  mlt-spider.py  [line:59] INFO  tyreID: 6256 exists 
+2017-11-14 14:59:49,173  mlt-spider.py  [line:43] INFO  name:马牌 Continental MC5 FR 225/55R17 97V
+2017-11-14 14:59:49,181  mlt-spider.py  [line:59] INFO  tyreID: 6257 exists 
+2017-11-14 14:59:49,183  mlt-spider.py  [line:43] INFO  name:马牌 Continental MC5 FR 225/55R16 95V
+2017-11-14 14:59:49,190  mlt-spider.py  [line:59] INFO  tyreID: 6255 exists 
+2017-11-14 14:59:49,190  mlt-spider.py  [line:29] INFO  streak:CPC2  
+2017-11-14 14:59:49,678  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 215/55R17 94V 国产
+2017-11-14 14:59:49,690  mlt-spider.py  [line:59] INFO  tyreID: 4980 exists 
+2017-11-14 14:59:49,690  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 205/65R16 95H
+2017-11-14 14:59:49,704  mlt-spider.py  [line:59] INFO  tyreID: 4978 exists 
+2017-11-14 14:59:49,706  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 205/65R15 94V
+2017-11-14 14:59:49,716  mlt-spider.py  [line:59] INFO  tyreID: 4977 exists 
+2017-11-14 14:59:49,717  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 235/45R18 94W
+2017-11-14 14:59:49,726  mlt-spider.py  [line:59] INFO  tyreID: 4984 exists 
+2017-11-14 14:59:49,726  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 235/50R17 96W
+2017-11-14 14:59:49,736  mlt-spider.py  [line:59] INFO  tyreID: 4982 exists 
+2017-11-14 14:59:49,736  mlt-spider.py  [line:29] INFO  streak:TURANZA ER300 
+2017-11-14 14:59:49,792  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA708 185/65R14 86H
+2017-11-14 14:59:49,805  mlt-spider.py  [line:59] INFO  tyreID: 6426 exists 
+2017-11-14 14:59:49,806  mlt-spider.py  [line:29] INFO  streak:MA202 
+2017-11-14 14:59:50,351  mlt-spider.py  [line:43] INFO  name:倍耐力 Pirelli P7 入门级运动轮胎 225/45R17 91W
+2017-11-14 14:59:50,358  mlt-spider.py  [line:59] INFO  tyreID: 6311 exists 
+2017-11-14 14:59:50,359  mlt-spider.py  [line:110] INFO  finish:倍耐力轮胎
+2017-11-14 14:59:50,361  mlt-spider.py  [line:127] INFO  韩泰轮胎 开始爬取
+2017-11-14 14:59:50,450  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Tour HP DT 揽途 HP 215/65R16 102H
+2017-11-14 14:59:50,460  mlt-spider.py  [line:59] INFO  tyreID: 5320 exists 
+2017-11-14 14:59:50,460  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Tour HP 揽途 225/65R17 102H
+2017-11-14 14:59:50,471  mlt-spider.py  [line:59] INFO  tyreID: 5490 exists 
+2017-11-14 14:59:50,473  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Tour HP AO 揽途 235/60R18 103H
+2017-11-14 14:59:50,483  mlt-spider.py  [line:59] INFO  tyreID: 5346 exists 
+2017-11-14 14:59:50,484  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Tour HP 揽途 255/55R19 111V
+2017-11-14 14:59:50,493  mlt-spider.py  [line:59] INFO  tyreID: 5360 exists 
+2017-11-14 14:59:50,493  mlt-spider.py  [line:29] INFO  streak:PRIMACY LC 
+2017-11-14 14:59:51,315  mlt-spider.py  [line:43] INFO  name:马牌 Continental CPC2 195/60R14 86H
+2017-11-14 14:59:51,325  mlt-spider.py  [line:59] INFO  tyreID: 5601 exists 
+2017-11-14 14:59:51,325  mlt-spider.py  [line:43] INFO  name:马牌 Continental CPC2 225/55R16 95W
+2017-11-14 14:59:51,335  mlt-spider.py  [line:59] INFO  tyreID: 4824 exists 
+2017-11-14 14:59:51,336  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 225/60R16 98V
+2017-11-14 14:59:51,336  mlt-spider.py  [line:43] INFO  name:马牌 Continental CPC2 SSR 225/55R17 97Y
+2017-11-14 14:59:51,348  mlt-spider.py  [line:59] INFO  tyreID: 5164 exists 
+2017-11-14 14:59:51,348  mlt-spider.py  [line:59] INFO  tyreID: 6216 exists 
+2017-11-14 14:59:51,349  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 235/45R17 94Y
+2017-11-14 14:59:51,349  mlt-spider.py  [line:29] INFO  streak:CCC UHP 
+2017-11-14 14:59:51,361  mlt-spider.py  [line:59] INFO  tyreID: 5166 exists 
+2017-11-14 14:59:51,364  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 225/55R16 95Y
+2017-11-14 14:59:51,372  mlt-spider.py  [line:59] INFO  tyreID: 5161 exists 
+2017-11-14 14:59:51,374  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence  三能 235/60R18 103W
+2017-11-14 14:59:51,381  mlt-spider.py  [line:59] INFO  tyreID: 5657 exists 
+2017-11-14 14:59:51,381  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 245/45R17 95Y
+2017-11-14 14:59:51,390  mlt-spider.py  [line:59] INFO  tyreID: 5167 exists 
+2017-11-14 14:59:51,391  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 225/55R17 97V
+2017-11-14 14:59:51,401  mlt-spider.py  [line:59] INFO  tyreID: 5165 exists 
+2017-11-14 14:59:51,401  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 225/50R17 94Y
+2017-11-14 14:59:51,408  mlt-spider.py  [line:59] INFO  tyreID: 5521 exists 
+2017-11-14 14:59:51,410  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Excellence 三能 215/50R17 91W
+2017-11-14 14:59:51,420  mlt-spider.py  [line:59] INFO  tyreID: 5162 exists 
+2017-11-14 14:59:51,420  mlt-spider.py  [line:29] INFO  streak:Eagle NCT5 
+2017-11-14 14:59:51,601  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA202 185/65R15 88H
+2017-11-14 14:59:51,614  mlt-spider.py  [line:59] INFO  tyreID: 6430 exists 
+2017-11-14 14:59:51,614  mlt-spider.py  [line:29] INFO  streak:MA651 
+2017-11-14 14:59:51,921  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 205/55R16 91V
+2017-11-14 14:59:51,927  mlt-spider.py  [line:59] INFO  tyreID: 4976 exists 
+2017-11-14 14:59:51,928  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 195/65R15 91H
+2017-11-14 14:59:51,937  mlt-spider.py  [line:59] INFO  tyreID: 4975 exists 
+2017-11-14 14:59:51,938  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA泰然者 ER300 205/60R16 92V
+2017-11-14 14:59:51,944  mlt-spider.py  [line:59] INFO  tyreID: 5392 exists 
+2017-11-14 14:59:51,944  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 * RFT 225/55R17 97Y
+2017-11-14 14:59:51,950  mlt-spider.py  [line:59] INFO  tyreID: 6385 exists 
+2017-11-14 14:59:51,950  mlt-spider.py  [line:29] INFO  streak:A/T698 
+2017-11-14 14:59:52,428  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PRIMACY LC DT 215/55R17 94V
+2017-11-14 14:59:52,437  mlt-spider.py  [line:59] INFO  tyreID: 5314 exists 
+2017-11-14 14:59:52,437  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PRIMACY LC 215/50R17 91W
+2017-11-14 14:59:52,444  mlt-spider.py  [line:59] INFO  tyreID: 5912 exists 
+2017-11-14 14:59:52,447  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PRIMACY LC 215/65R16 98H
+2017-11-14 14:59:52,456  mlt-spider.py  [line:59] INFO  tyreID: 5311 exists 
+2017-11-14 14:59:52,456  mlt-spider.py  [line:29] INFO  streak:PILOT PRECEDA PP2 
+2017-11-14 14:59:52,986  mlt-spider.py  [line:43] INFO  name:马牌 Continental CCC UHP FR SSR * 255/50R19 107V
+2017-11-14 14:59:52,994  mlt-spider.py  [line:59] INFO  tyreID: 4887 exists 
+2017-11-14 14:59:52,994  mlt-spider.py  [line:43] INFO  name:马牌 Continental CCC UHP FR MO ML  285/45R19 107W
+2017-11-14 14:59:53,005  mlt-spider.py  [line:59] INFO  tyreID: 5581 exists 
+2017-11-14 14:59:53,005  mlt-spider.py  [line:29] INFO  streak:CSC3  
+2017-11-14 14:59:53,168  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA651 215/55R16 93V
+2017-11-14 14:59:53,183  mlt-spider.py  [line:59] INFO  tyreID: 6439 exists 
+2017-11-14 14:59:53,183  mlt-spider.py  [line:29] INFO  streak:MA652 
+2017-11-14 14:59:53,496  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 195/65R15 91V
+2017-11-14 14:59:53,505  mlt-spider.py  [line:59] INFO  tyreID: 4791 exists 
+2017-11-14 14:59:53,506  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 215/55R16 93W
+2017-11-14 14:59:53,515  mlt-spider.py  [line:59] INFO  tyreID: 5176 exists 
+2017-11-14 14:59:53,516  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 三道沟 205/55R16 91V
+2017-11-14 14:59:53,526  mlt-spider.py  [line:59] INFO  tyreID: 5148 exists 
+2017-11-14 14:59:53,526  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师  195/55R15 85V
+2017-11-14 14:59:53,535  mlt-spider.py  [line:59] INFO  tyreID: 5513 exists 
+2017-11-14 14:59:53,536  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 225/55R16 95Y
+2017-11-14 14:59:53,545  mlt-spider.py  [line:59] INFO  tyreID: 5177 exists 
+2017-11-14 14:59:53,545  mlt-spider.py  [line:29] INFO  streak:Wrangler HP AW  
+2017-11-14 14:59:53,766  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 （白） A/T698 245/75R16 104S
+2017-11-14 14:59:53,773  mlt-spider.py  [line:59] INFO  tyreID: 5920 exists 
+2017-11-14 14:59:53,773  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 A/T698 235/75R15 105S
+2017-11-14 14:59:53,782  mlt-spider.py  [line:59] INFO  tyreID: 5923 exists 
+2017-11-14 14:59:53,785  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 A/T698 265/65R17 112T
+2017-11-14 14:59:53,799  mlt-spider.py  [line:59] INFO  tyreID: 5926 exists 
+2017-11-14 14:59:53,799  mlt-spider.py  [line:29] INFO  streak:MW01 
+2017-11-14 14:59:54,125  mlt-spider.py  [line:29] INFO  streak:H426 
+2017-11-14 14:59:54,502  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PILOT PRECEDA PP2 AO 235/60R18 103W
+2017-11-14 14:59:54,510  mlt-spider.py  [line:59] INFO  tyreID: 6169 exists 
+2017-11-14 14:59:54,512  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PRECEDA PP2 235/55R19 101W
+2017-11-14 14:59:54,519  mlt-spider.py  [line:59] INFO  tyreID: 5439 exists 
+2017-11-14 14:59:54,520  mlt-spider.py  [line:29] INFO  streak:Diamaris 
+2017-11-14 14:59:54,900  mlt-spider.py  [line:43] INFO  name:马牌 Continental CSC3 FR 235/45R17 94W
+2017-11-14 14:59:54,907  mlt-spider.py  [line:59] INFO  tyreID: 6220 exists 
+2017-11-14 14:59:54,911  mlt-spider.py  [line:43] INFO  name:马牌 Continental CSC3 SSR * 245/45R19 98W
+2017-11-14 14:59:54,924  mlt-spider.py  [line:59] INFO  tyreID: 5911 exists 
+2017-11-14 14:59:54,933  mlt-spider.py  [line:29] INFO  streak:C4*4C 
+2017-11-14 14:59:55,730  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA652 185/65R14 86H
+2017-11-14 14:59:55,744  mlt-spider.py  [line:59] INFO  tyreID: 6425 exists 
+2017-11-14 14:59:55,744  mlt-spider.py  [line:29] INFO  streak:MA656 
+2017-11-14 14:59:55,980  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Wrangler HP All Weather 255/55R19 111V
+2017-11-14 14:59:55,989  mlt-spider.py  [line:59] INFO  tyreID: 5185 exists 
+2017-11-14 14:59:55,989  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Wrangler HP All Weather 215/70R16 100H
+2017-11-14 14:59:55,996  mlt-spider.py  [line:59] INFO  tyreID: 5531 exists 
+2017-11-14 14:59:55,996  mlt-spider.py  [line:29] INFO  streak:EfficientGrip 
+2017-11-14 14:59:56,171  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone MW01 195/60R14 86H
+2017-11-14 14:59:56,184  mlt-spider.py  [line:59] INFO  tyreID: 6034 exists 
+2017-11-14 14:59:56,184  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone MW01 195/60R15 88H
+2017-11-14 14:59:56,194  mlt-spider.py  [line:59] INFO  tyreID: 7047 exists 
+2017-11-14 14:59:56,196  mlt-spider.py  [line:29] INFO  streak:H/L400 
+2017-11-14 14:59:56,549  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN Diamaris 235/60R18 103V
+2017-11-14 14:59:56,558  mlt-spider.py  [line:59] INFO  tyreID: 5345 exists 
+2017-11-14 14:59:56,559  mlt-spider.py  [line:29] INFO  streak:PILOT PRECEDA 
+2017-11-14 14:59:56,957  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 215/65R15 96V
+2017-11-14 14:59:56,967  mlt-spider.py  [line:59] INFO  tyreID: 5417 exists 
+2017-11-14 14:59:56,967  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 195/65R15 91T
+2017-11-14 14:59:56,976  mlt-spider.py  [line:59] INFO  tyreID: 5011 exists 
+2017-11-14 14:59:56,976  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426（XL） 225/45R18 95V
+2017-11-14 14:59:56,982  mlt-spider.py  [line:59] INFO  tyreID: 5031 exists 
+2017-11-14 14:59:56,983  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 185/65R14 86H
+2017-11-14 14:59:56,993  mlt-spider.py  [line:59] INFO  tyreID: 5004 exists 
+2017-11-14 14:59:56,993  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 215/70R16 100H
+2017-11-14 14:59:57,007  mlt-spider.py  [line:59] INFO  tyreID: 5026 exists 
+2017-11-14 14:59:57,009  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 175/70R14 84T
+2017-11-14 14:59:57,017  mlt-spider.py  [line:59] INFO  tyreID: 6283 exists 
+2017-11-14 14:59:57,019  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 195/60R15 88H
+2017-11-14 14:59:57,029  mlt-spider.py  [line:59] INFO  tyreID: 5008 exists 
+2017-11-14 14:59:57,029  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 215/60R16 95V
+2017-11-14 14:59:57,042  mlt-spider.py  [line:59] INFO  tyreID: 5022 exists 
+2017-11-14 14:59:57,043  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 205/55R16 91H
+2017-11-14 14:59:57,052  mlt-spider.py  [line:59] INFO  tyreID: 5017 exists 
+2017-11-14 14:59:57,052  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 185/65R15 88T
+2017-11-14 14:59:57,059  mlt-spider.py  [line:59] INFO  tyreID: 5005 exists 
+2017-11-14 14:59:57,061  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 225/60R17 99H
+2017-11-14 14:59:57,069  mlt-spider.py  [line:59] INFO  tyreID: 6374 exists 
+2017-11-14 14:59:57,069  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 H426 205/50R16 87H/V
+2017-11-14 14:59:57,085  mlt-spider.py  [line:59] INFO  tyreID: 5014 exists 
+2017-11-14 14:59:57,086  mlt-spider.py  [line:29] INFO  streak:K715 
+2017-11-14 14:59:57,315  mlt-spider.py  [line:43] INFO  name:马牌 Continental C4*4C 215/65R16 98H
+2017-11-14 14:59:57,322  mlt-spider.py  [line:59] INFO  tyreID: 4822 exists 
+2017-11-14 14:59:57,322  mlt-spider.py  [line:29] INFO  streak:CSC2  
+2017-11-14 14:59:57,476  mlt-spider.py  [line:43] INFO  name:玛吉斯 MAXXIS MA656 195/60R14 86H
+2017-11-14 14:59:57,486  mlt-spider.py  [line:59] INFO  tyreID: 6428 exists 
+2017-11-14 14:59:57,486  mlt-spider.py  [line:110] INFO  finish:玛吉斯轮胎
+2017-11-14 14:59:57,487  mlt-spider.py  [line:127] INFO  固铂轮胎 开始爬取
+2017-11-14 14:59:58,009  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear EfficientGrip 御乘 215/50R17 91V
+2017-11-14 14:59:58,020  mlt-spider.py  [line:59] INFO  tyreID: 5171 exists 
+2017-11-14 14:59:58,020  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear EfficientGrip 御乘 225/50R17 94V
+2017-11-14 14:59:58,029  mlt-spider.py  [line:59] INFO  tyreID: 5668 exists 
+2017-11-14 14:59:58,029  mlt-spider.py  [line:29] INFO  streak:Eagle F1 GS-D3 
+2017-11-14 14:59:58,128  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/L400 225/65R17 101/102H
+2017-11-14 14:59:58,135  mlt-spider.py  [line:59] INFO  tyreID: 5115 exists 
+2017-11-14 14:59:58,135  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/L400 245/55R19 103S
+2017-11-14 14:59:58,142  mlt-spider.py  [line:59] INFO  tyreID: 5400 exists 
+2017-11-14 14:59:58,142  mlt-spider.py  [line:29] INFO  streak:B391 
+2017-11-14 14:59:58,484  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PILOT PRECEDA 225/50R17 94Y
+2017-11-14 14:59:58,506  mlt-spider.py  [line:59] INFO  tyreID: 4960 exists 
+2017-11-14 14:59:58,506  mlt-spider.py  [line:29] INFO  streak:PRIMACY HP 
+2017-11-14 14:59:59,236  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 175/65R15 84T
+2017-11-14 14:59:59,249  mlt-spider.py  [line:59] INFO  tyreID: 5212 exists 
+2017-11-14 14:59:59,250  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R13 82T
+2017-11-14 14:59:59,260  mlt-spider.py  [line:59] INFO  tyreID: 5213 exists 
+2017-11-14 14:59:59,262  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R14 84T
+2017-11-14 14:59:59,273  mlt-spider.py  [line:59] INFO  tyreID: 6379 exists 
+2017-11-14 14:59:59,275  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R14 84H
+2017-11-14 14:59:59,283  mlt-spider.py  [line:59] INFO  tyreID: 5214 exists 
+2017-11-14 14:59:59,285  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 165/70R14 81T
+2017-11-14 14:59:59,292  mlt-spider.py  [line:59] INFO  tyreID: 5210 exists 
+2017-11-14 14:59:59,293  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 185/70R14 88T
+2017-11-14 14:59:59,306  mlt-spider.py  [line:59] INFO  tyreID: 5216 exists 
+2017-11-14 14:59:59,308  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 165/70R13 79T
+2017-11-14 14:59:59,316  mlt-spider.py  [line:59] INFO  tyreID: 5209 exists 
+2017-11-14 14:59:59,318  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 175/65R14 82H
+2017-11-14 14:59:59,325  mlt-spider.py  [line:59] INFO  tyreID: 5211 exists 
+2017-11-14 14:59:59,325  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 205/70R15 96T
+2017-11-14 14:59:59,336  mlt-spider.py  [line:59] INFO  tyreID: 5220 exists 
+2017-11-14 14:59:59,336  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K715 195/70R14 91H
+2017-11-14 14:59:59,345  mlt-spider.py  [line:59] INFO  tyreID: 5218 exists 
+2017-11-14 14:59:59,345  mlt-spider.py  [line:29] INFO  streak:RA23 
+2017-11-14 14:59:59,461  mlt-spider.py  [line:43] INFO  name:马牌 Continental CSC2 FR MO ML 255/45R18 99Y
+2017-11-14 14:59:59,473  mlt-spider.py  [line:59] INFO  tyreID: 4857 exists 
+2017-11-14 14:59:59,473  mlt-spider.py  [line:110] INFO  finish:马牌轮胎
+2017-11-14 14:59:59,474  mlt-spider.py  [line:138] INFO  finish spider!
+2017-11-14 14:59:59,775  mlt-spider.py  [line:29] INFO  streak:ZEON ASP 
+2017-11-14 15:00:00,040  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B391 175/65R14 82T
+2017-11-14 15:00:00,076  mlt-spider.py  [line:59] INFO  tyreID: 5075 exists 
+2017-11-14 15:00:00,078  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列 B391 185/65R14 86H
+2017-11-14 15:00:00,108  mlt-spider.py  [line:59] INFO  tyreID: 5076 exists 
+2017-11-14 15:00:00,109  mlt-spider.py  [line:29] INFO  streak:TURANZA ER370 
+2017-11-14 15:00:00,257  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle F1 GS-D3 225/55R17 97V
+2017-11-14 15:00:00,278  mlt-spider.py  [line:59] INFO  tyreID: 5191 exists 
+2017-11-14 15:00:00,279  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle F1 GS-D3 275/45R20 110Y
+2017-11-14 15:00:00,305  mlt-spider.py  [line:59] INFO  tyreID: 5297 exists 
+2017-11-14 15:00:00,315  mlt-spider.py  [line:29] INFO  streak:Assurance Fuelmax 
+2017-11-14 15:00:00,367  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN PRIMACY HP MO 255/45R18 99Y
+2017-11-14 15:00:00,375  mlt-spider.py  [line:59] INFO  tyreID: 5446 exists 
+2017-11-14 15:00:00,375  mlt-spider.py  [line:29] INFO  streak:LATITUDE Tour 
+2017-11-14 15:00:01,657  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 215/65R16 98H
+2017-11-14 15:00:01,667  mlt-spider.py  [line:59] INFO  tyreID: 5228 exists 
+2017-11-14 15:00:01,667  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 235/60R18 103H
+2017-11-14 15:00:01,676  mlt-spider.py  [line:59] INFO  tyreID: 5232 exists 
+2017-11-14 15:00:01,676  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/65R17 103H
+2017-11-14 15:00:01,683  mlt-spider.py  [line:59] INFO  tyreID: 5234 exists 
+2017-11-14 15:00:01,684  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/60R18 105H
+2017-11-14 15:00:01,691  mlt-spider.py  [line:59] INFO  tyreID: 5233 exists 
+2017-11-14 15:00:01,693  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 225/65R17 102S
+2017-11-14 15:00:01,703  mlt-spider.py  [line:59] INFO  tyreID: 5230 exists 
+2017-11-14 15:00:01,703  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 225/70R16 103T
+2017-11-14 15:00:01,711  mlt-spider.py  [line:59] INFO  tyreID: 6403 exists 
+2017-11-14 15:00:01,711  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 P235/65R17 104S
+2017-11-14 15:00:01,720  mlt-spider.py  [line:59] INFO  tyreID: 5237 exists 
+2017-11-14 15:00:01,721  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/65R17 107H
+2017-11-14 15:00:01,730  mlt-spider.py  [line:59] INFO  tyreID: 6199 exists 
+2017-11-14 15:00:01,730  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 达耐普系列 RA23 P215/75R15 100S
+2017-11-14 15:00:01,739  mlt-spider.py  [line:59] INFO  tyreID: 5236 exists 
+2017-11-14 15:00:01,739  mlt-spider.py  [line:29] INFO  streak:K415 
+2017-11-14 15:00:01,816  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER370 225/50R17 98V
+2017-11-14 15:00:01,822  mlt-spider.py  [line:59] INFO  tyreID: 4993 exists 
+2017-11-14 15:00:01,822  mlt-spider.py  [line:29] INFO  streak:R600B 
+2017-11-14 15:00:02,161  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP XL 225/50R17 98W
+2017-11-14 15:00:02,168  mlt-spider.py  [line:59] INFO  tyreID: 6520 exists 
+2017-11-14 15:00:02,170  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 235/60R16 100W
+2017-11-14 15:00:02,177  mlt-spider.py  [line:59] INFO  tyreID: 6517 exists 
+2017-11-14 15:00:02,178  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP XL 215/50R17 95W
+2017-11-14 15:00:02,184  mlt-spider.py  [line:59] INFO  tyreID: 6518 exists 
+2017-11-14 15:00:02,186  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 215/55R17 94W
+2017-11-14 15:00:02,191  mlt-spider.py  [line:59] INFO  tyreID: 6519 exists 
+2017-11-14 15:00:02,193  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 225/55R17 101W
+2017-11-14 15:00:02,198  mlt-spider.py  [line:59] INFO  tyreID: 6521 exists 
+2017-11-14 15:00:02,200  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 225/60R17 99W
+2017-11-14 15:00:02,207  mlt-spider.py  [line:59] INFO  tyreID: 6522 exists 
+2017-11-14 15:00:02,209  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 235/55R17 99W
+2017-11-14 15:00:02,214  mlt-spider.py  [line:59] INFO  tyreID: 6523 exists 
+2017-11-14 15:00:02,216  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 245/45R17 95W
+2017-11-14 15:00:02,221  mlt-spider.py  [line:59] INFO  tyreID: 6524 exists 
+2017-11-14 15:00:02,223  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 235/60R18 103W
+2017-11-14 15:00:02,229  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Assurance Fuelmax 安节轮 205/60R16 92V
+2017-11-14 15:00:02,229  mlt-spider.py  [line:59] INFO  tyreID: 6525 exists 
+2017-11-14 15:00:02,230  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ASP 245/50R18 100W
+2017-11-14 15:00:02,237  mlt-spider.py  [line:59] INFO  tyreID: 5665 exists 
+2017-11-14 15:00:02,237  mlt-spider.py  [line:29] INFO  streak:Eagle NCT5四道沟 
+2017-11-14 15:00:02,240  mlt-spider.py  [line:59] INFO  tyreID: 6526 exists 
+2017-11-14 15:00:02,240  mlt-spider.py  [line:29] INFO  streak:ZEON ATP 
+2017-11-14 15:00:02,243  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Tour 揽途 225/65R17 102T
+2017-11-14 15:00:02,247  mlt-spider.py  [line:59] INFO  tyreID: 5331 exists 
+2017-11-14 15:00:02,249  mlt-spider.py  [line:29] INFO  streak:LATITUDE Cross 
+2017-11-14 15:00:02,677  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone 经济系列  R600B 165/70R13 79S
+2017-11-14 15:00:02,687  mlt-spider.py  [line:59] INFO  tyreID: 6042 exists 
+2017-11-14 15:00:02,687  mlt-spider.py  [line:29] INFO  streak:POTENZA RE080 
+2017-11-14 15:00:03,052  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 185/60R14 82H
+2017-11-14 15:00:03,059  mlt-spider.py  [line:59] INFO  tyreID: 6398 exists 
+2017-11-14 15:00:03,059  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 205/55R16 91V
+2017-11-14 15:00:03,069  mlt-spider.py  [line:59] INFO  tyreID: 5201 exists 
+2017-11-14 15:00:03,069  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 205/60R16 92V
+2017-11-14 15:00:03,078  mlt-spider.py  [line:59] INFO  tyreID: 5202 exists 
+2017-11-14 15:00:03,078  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 215/65R16 98H
+2017-11-14 15:00:03,085  mlt-spider.py  [line:59] INFO  tyreID: 5203 exists 
+2017-11-14 15:00:03,085  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 175/65R14 82H
+2017-11-14 15:00:03,091  mlt-spider.py  [line:59] INFO  tyreID: 5194 exists 
+2017-11-14 15:00:03,092  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 185/65R14 86T
+2017-11-14 15:00:03,098  mlt-spider.py  [line:59] INFO  tyreID: 6405 exists 
+2017-11-14 15:00:03,098  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 195/60R14 86H
+2017-11-14 15:00:03,107  mlt-spider.py  [line:59] INFO  tyreID: 6399 exists 
+2017-11-14 15:00:03,108  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 XL 205/45R16 83H
+2017-11-14 15:00:03,114  mlt-spider.py  [line:59] INFO  tyreID: 5200 exists 
+2017-11-14 15:00:03,114  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K415 185/65R15 88H
+2017-11-14 15:00:03,119  mlt-spider.py  [line:59] INFO  tyreID: 5197 exists 
+2017-11-14 15:00:03,119  mlt-spider.py  [line:29] INFO  streak:K407 
+2017-11-14 15:00:03,500  mlt-spider.py  [line:43] INFO  name:米其林 MICHELIN LATITUDE Cross 245/70R16 111T
+2017-11-14 15:00:03,516  mlt-spider.py  [line:59] INFO  tyreID: 5324 exists 
+2017-11-14 15:00:03,516  mlt-spider.py  [line:110] INFO  finish:米其林轮胎
+2017-11-14 15:00:03,661  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 四道沟 205/55R16 91V
+2017-11-14 15:00:03,671  mlt-spider.py  [line:59] INFO  tyreID: 5149 exists 
+2017-11-14 15:00:03,671  mlt-spider.py  [line:29] INFO  streak:Eagle RSA 
+2017-11-14 15:00:03,680  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ATP 205/60R15 91H
+2017-11-14 15:00:03,686  mlt-spider.py  [line:59] INFO  tyreID: 6507 exists 
+2017-11-14 15:00:03,687  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES ZEON ATP 205/65R16 95V
+2017-11-14 15:00:03,694  mlt-spider.py  [line:59] INFO  tyreID: 6516 exists 
+2017-11-14 15:00:03,694  mlt-spider.py  [line:29] INFO  streak:DISCOVERER ATS 
+2017-11-14 15:00:03,888  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone POTENZA 搏天族 RE080 185/60R15 84H
+2017-11-14 15:00:03,895  mlt-spider.py  [line:59] INFO  tyreID: 5074 exists 
+2017-11-14 15:00:03,895  mlt-spider.py  [line:29] INFO  streak:H/P SPORT 
+2017-11-14 15:00:04,220  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 205/55R16 91V
+2017-11-14 15:00:04,229  mlt-spider.py  [line:59] INFO  tyreID: 5135 exists 
+2017-11-14 15:00:04,229  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 195/60R15 88H
+2017-11-14 15:00:04,233  mlt-spider.py  [line:59] INFO  tyreID: 5133 exists 
+2017-11-14 15:00:04,234  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 195/55R15 85H
+2017-11-14 15:00:04,243  mlt-spider.py  [line:59] INFO  tyreID: 5132 exists 
+2017-11-14 15:00:04,243  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 205/60R16 92V
+2017-11-14 15:00:04,252  mlt-spider.py  [line:59] INFO  tyreID: 5136 exists 
+2017-11-14 15:00:04,252  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 185/65R15 88H
+2017-11-14 15:00:04,270  mlt-spider.py  [line:59] INFO  tyreID: 5130 exists 
+2017-11-14 15:00:04,270  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 185/65R14 86H
+2017-11-14 15:00:04,276  mlt-spider.py  [line:59] INFO  tyreID: 5129 exists 
+2017-11-14 15:00:04,278  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook K407 195/65R15 91V
+2017-11-14 15:00:04,285  mlt-spider.py  [line:59] INFO  tyreID: 5134 exists 
+2017-11-14 15:00:04,285  mlt-spider.py  [line:29] INFO  streak:K406 
+2017-11-14 15:00:04,668  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear Eagle RSA 235/55R17 99V
+2017-11-14 15:00:04,674  mlt-spider.py  [line:59] INFO  tyreID: 5736 exists 
+2017-11-14 15:00:04,674  mlt-spider.py  [line:29] INFO  streak:Eagle LS2 
+2017-11-14 15:00:04,683  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES DISCOVERER ATS 31*10.50R15LT 109R
+2017-11-14 15:00:04,691  mlt-spider.py  [line:59] INFO  tyreID: 6539 exists 
+2017-11-14 15:00:04,691  mlt-spider.py  [line:43] INFO  name:固铂 COOPERTIRES DISCOVERER ATS 245/70R16 107S
+2017-11-14 15:00:04,700  mlt-spider.py  [line:59] INFO  tyreID: 6546 exists 
+2017-11-14 15:00:04,701  mlt-spider.py  [line:110] INFO  finish:固铂轮胎
+2017-11-14 15:00:04,884  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/P SPORT 215/60R17 96H
+2017-11-14 15:00:04,891  mlt-spider.py  [line:59] INFO  tyreID: 5114 exists 
+2017-11-14 15:00:04,891  mlt-spider.py  [line:29] INFO  streak:B390 
+2017-11-14 15:00:05,250  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K406 235/60R16 100H
+2017-11-14 15:00:05,257  mlt-spider.py  [line:59] INFO  tyreID: 5092 exists 
+2017-11-14 15:00:05,259  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K406 215/55R16 93V
+2017-11-14 15:00:05,273  mlt-spider.py  [line:59] INFO  tyreID: 5088 exists 
+2017-11-14 15:00:05,273  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K406 195/55R15 85V
+2017-11-14 15:00:05,292  mlt-spider.py  [line:59] INFO  tyreID: 5084 exists 
+2017-11-14 15:00:05,292  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K406 195/65R15 91H
+2017-11-14 15:00:05,299  mlt-spider.py  [line:59] INFO  tyreID: 5086 exists 
+2017-11-14 15:00:05,299  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 傲特马系列 K406 255/60R18 108H
+2017-11-14 15:00:05,308  mlt-spider.py  [line:59] INFO  tyreID: 5094 exists 
+2017-11-14 15:00:05,309  mlt-spider.py  [line:29] INFO  streak:RA08 
+2017-11-14 15:00:05,375  mlt-spider.py  [line:43] INFO  name:固特异 Goodyear EAGLE LS2 ROF 275/50R20 109H
+2017-11-14 15:00:05,381  mlt-spider.py  [line:59] INFO  tyreID: 5728 exists 
+2017-11-14 15:00:05,382  mlt-spider.py  [line:110] INFO  finish:固特异轮胎
+2017-11-14 15:00:05,480  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone B390 205/65R16 95H
+2017-11-14 15:00:05,494  mlt-spider.py  [line:59] INFO  tyreID: 4989 exists 
+2017-11-14 15:00:05,496  mlt-spider.py  [line:29] INFO  streak:TURANZA EL400 
+2017-11-14 15:00:05,736  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook RA08 165/70R13 79T
+2017-11-14 15:00:05,753  mlt-spider.py  [line:59] INFO  tyreID: 5224 exists 
+2017-11-14 15:00:05,753  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook RA08 165/70R14 81T
+2017-11-14 15:00:05,763  mlt-spider.py  [line:59] INFO  tyreID: 5225 exists 
+2017-11-14 15:00:05,763  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook RA08 175/70R13 82T
+2017-11-14 15:00:05,773  mlt-spider.py  [line:59] INFO  tyreID: 5226 exists 
+2017-11-14 15:00:05,773  mlt-spider.py  [line:29] INFO  streak:H439 
+2017-11-14 15:00:05,865  mlt-spider.py  [line:43] INFO  name:普利司通 Bridgestone TURANZA 泰然者 EL400 245/45R18 96V
+2017-11-14 15:00:05,871  mlt-spider.py  [line:59] INFO  tyreID: 4995 exists 
+2017-11-14 15:00:05,871  mlt-spider.py  [line:110] INFO  finish:普利司通轮胎
+2017-11-14 15:00:06,161  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook H439 185/60R14 82H
+2017-11-14 15:00:06,180  mlt-spider.py  [line:59] INFO  tyreID: 5038 exists 
+2017-11-14 15:00:06,180  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook H439 195/60R15 88H
+2017-11-14 15:00:06,190  mlt-spider.py  [line:59] INFO  tyreID: 5040 exists 
+2017-11-14 15:00:06,190  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook H439 185/60R15 82H
+2017-11-14 15:00:06,200  mlt-spider.py  [line:59] INFO  tyreID: 5039 exists 
+2017-11-14 15:00:06,200  mlt-spider.py  [line:29] INFO  streak:866 
+2017-11-14 15:00:06,546  mlt-spider.py  [line:43] INFO  name:韩泰 Hankook 万途仕系列 866 185/60R14 82H
+2017-11-14 15:00:06,555  mlt-spider.py  [line:59] INFO  tyreID: 4983 exists 
+2017-11-14 15:00:06,555  mlt-spider.py  [line:110] INFO  finish:韩泰轮胎
+2017-11-14 15:01:57,898  mlt-spider.py  [line:137] INFO  start spider!
+2017-11-14 15:01:58,789  mlt-spider.py  [line:128] INFO  固特异轮胎 开始爬取
+2017-11-14 15:01:58,790  mlt-spider.py  [line:128] INFO  米其林轮胎 开始爬取
+2017-11-14 15:01:58,790  mlt-spider.py  [line:128] INFO  倍耐力轮胎 开始爬取
+2017-11-14 15:01:58,792  mlt-spider.py  [line:128] INFO  马牌轮胎 开始爬取
+2017-11-14 15:01:58,796  mlt-spider.py  [line:128] INFO  邓禄普轮胎 开始爬取
+2017-11-14 15:01:58,798  mlt-spider.py  [line:128] INFO  普利司通轮胎 开始爬取
+2017-11-14 15:01:59,512  mlt-spider.py  [line:30] INFO  streak:ST30 
+2017-11-14 15:01:59,773  mlt-spider.py  [line:30] INFO  streak:P7cint 
+2017-11-14 15:02:00,779  mlt-spider.py  [line:44] INFO  name:邓禄普 Dunlop ST30 225/65R17 101H
+2017-11-14 15:02:00,812  mlt-spider.py  [line:60] INFO  tyreID: 6167 exists 
+2017-11-14 15:02:00,813  mlt-spider.py  [line:111] INFO  finish:邓禄普轮胎
+2017-11-14 15:02:00,815  mlt-spider.py  [line:128] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 15:02:27,467  mlt-spider.py  [line:137] INFO  start spider!
+2017-11-14 15:02:28,331  mlt-spider.py  [line:128] INFO  固特异轮胎 开始爬取
+2017-11-14 15:02:28,332  mlt-spider.py  [line:128] INFO  米其林轮胎 开始爬取
+2017-11-14 15:02:28,335  mlt-spider.py  [line:128] INFO  倍耐力轮胎 开始爬取
+2017-11-14 15:02:28,336  mlt-spider.py  [line:128] INFO  马牌轮胎 开始爬取
+2017-11-14 15:02:28,338  mlt-spider.py  [line:128] INFO  邓禄普轮胎 开始爬取
+2017-11-14 15:02:28,339  mlt-spider.py  [line:128] INFO  普利司通轮胎 开始爬取
+2017-11-14 15:02:29,111  mlt-spider.py  [line:30] INFO  streak:ST30 
+2017-11-14 15:02:29,601  mlt-spider.py  [line:30] INFO  streak:P7cint 
+2017-11-14 15:02:30,505  mlt-spider.py  [line:44] INFO  name:邓禄普 Dunlop ST30 225/65R17 101H
+2017-11-14 15:02:30,505  mlt-spider.py  [line:108] INFO  跳过/product/6167.html
+2017-11-14 15:02:30,505  mlt-spider.py  [line:111] INFO  finish:邓禄普轮胎
+2017-11-14 15:02:30,506  mlt-spider.py  [line:128] INFO  玛吉斯轮胎 开始爬取
+2017-11-14 15:02:31,799  mlt-spider.py  [line:30] INFO  streak:CC5 
+2017-11-14 15:02:31,844  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato R-F *新P7 225/45R18 91W
+2017-11-14 15:02:31,888  mlt-spider.py  [line:60] INFO  tyreID: 6343 exists 
+2017-11-14 15:02:31,890  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato R-F* 新P7 225/55R17 97Y
+2017-11-14 15:02:31,901  mlt-spider.py  [line:60] INFO  tyreID: 6402 exists 
+2017-11-14 15:02:31,903  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato XL 新P7 215/50R17 95W
+2017-11-14 15:02:31,913  mlt-spider.py  [line:60] INFO  tyreID: 6323 exists 
+2017-11-14 15:02:31,914  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 225/50R17 94W
+2017-11-14 15:02:31,923  mlt-spider.py  [line:60] INFO  tyreID: 6328 exists 
+2017-11-14 15:02:31,924  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 245/50R18 100W
+2017-11-14 15:02:31,930  mlt-spider.py  [line:60] INFO  tyreID: 6344 exists 
+2017-11-14 15:02:31,931  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 Cinturato R-F * 新P7 225/45R17 91W
+2017-11-14 15:02:31,940  mlt-spider.py  [line:60] INFO  tyreID: 6326 exists 
+2017-11-14 15:02:31,941  mlt-spider.py  [line:30] INFO  streak:P4four 
+2017-11-14 15:02:32,346  mlt-spider.py  [line:30] INFO  streak:B250 
+2017-11-14 15:02:32,582  mlt-spider.py  [line:30] INFO  streak:ENERGY XM2 
+2017-11-14 15:02:32,607  mlt-spider.py  [line:30] INFO  streak:EfficientGrip SUV 
+2017-11-14 15:02:33,289  mlt-spider.py  [line:30] INFO  streak:MA501 
+2017-11-14 15:02:33,644  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P4 Four Seasons P4四季胎 175/65R14 82H
+2017-11-14 15:02:33,654  mlt-spider.py  [line:60] INFO  tyreID: 6288 exists 
+2017-11-14 15:02:33,654  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P4 Four Seasons P4四季胎 215/65R16 98H
+2017-11-14 15:02:33,661  mlt-spider.py  [line:60] INFO  tyreID: 6292 exists 
+2017-11-14 15:02:33,661  mlt-spider.py  [line:30] INFO  streak:SCORPION VERDE 
+2017-11-14 15:02:34,030  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 FR 205/55R16 91V
+2017-11-14 15:02:34,042  mlt-spider.py  [line:60] INFO  tyreID: 4816 exists 
+2017-11-14 15:02:34,042  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 185/65R15 88H
+2017-11-14 15:02:34,049  mlt-spider.py  [line:60] INFO  tyreID: 4802 exists 
+2017-11-14 15:02:34,051  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 195/65R15 91H
+2017-11-14 15:02:34,059  mlt-spider.py  [line:60] INFO  tyreID: 4810 exists 
+2017-11-14 15:02:34,061  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 FR 195/60R16 89H
+2017-11-14 15:02:34,069  mlt-spider.py  [line:60] INFO  tyreID: 4812 exists 
+2017-11-14 15:02:34,069  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 185/60R14 82H
+2017-11-14 15:02:34,078  mlt-spider.py  [line:60] INFO  tyreID: 4795 exists 
+2017-11-14 15:02:34,078  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 FR 195/55R15 85V
+2017-11-14 15:02:34,089  mlt-spider.py  [line:60] INFO  tyreID: 4805 exists 
+2017-11-14 15:02:34,091  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 205/65R15 94V
+2017-11-14 15:02:34,096  mlt-spider.py  [line:60] INFO  tyreID: 4814 exists 
+2017-11-14 15:02:34,098  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 195/60R15 88H
+2017-11-14 15:02:34,105  mlt-spider.py  [line:60] INFO  tyreID: 4807 exists 
+2017-11-14 15:02:34,105  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 FR 215/60R16 95V
+2017-11-14 15:02:34,112  mlt-spider.py  [line:60] INFO  tyreID: 4819 exists 
+2017-11-14 15:02:34,114  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 175/65R14 82H
+2017-11-14 15:02:34,119  mlt-spider.py  [line:60] INFO  tyreID: 4793 exists 
+2017-11-14 15:02:34,121  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 215/65R16 98V
+2017-11-14 15:02:34,130  mlt-spider.py  [line:60] INFO  tyreID: 4823 exists 
+2017-11-14 15:02:34,131  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 185/60R15 84H
+2017-11-14 15:02:34,138  mlt-spider.py  [line:60] INFO  tyreID: 4800 exists 
+2017-11-14 15:02:34,138  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 185/65R14 86H
+2017-11-14 15:02:34,144  mlt-spider.py  [line:60] INFO  tyreID: 4798 exists 
+2017-11-14 15:02:34,144  mlt-spider.py  [line:44] INFO  name:马牌 Continental CC5 205/65R16 95H
+2017-11-14 15:02:34,151  mlt-spider.py  [line:60] INFO  tyreID: 6196 exists 
+2017-11-14 15:02:34,151  mlt-spider.py  [line:30] INFO  streak:MC5 
+2017-11-14 15:02:34,369  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 175/70R14 84H
+2017-11-14 15:02:34,377  mlt-spider.py  [line:60] INFO  tyreID: 5078 exists 
+2017-11-14 15:02:34,378  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 185/65R15 88H
+2017-11-14 15:02:34,390  mlt-spider.py  [line:60] INFO  tyreID: 5077 exists 
+2017-11-14 15:02:34,390  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 165/70R13 79H
+2017-11-14 15:02:34,395  mlt-spider.py  [line:60] INFO  tyreID: 5393 exists 
+2017-11-14 15:02:34,395  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 165/65R13 77H
+2017-11-14 15:02:34,404  mlt-spider.py  [line:60] INFO  tyreID: 5398 exists 
+2017-11-14 15:02:34,404  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 175/70R13 82H
+2017-11-14 15:02:34,411  mlt-spider.py  [line:60] INFO  tyreID: 5395 exists 
+2017-11-14 15:02:34,411  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 175/60R14 79H
+2017-11-14 15:02:34,420  mlt-spider.py  [line:60] INFO  tyreID: 5125 exists 
+2017-11-14 15:02:34,421  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 185/60R15 84H
+2017-11-14 15:02:34,428  mlt-spider.py  [line:60] INFO  tyreID: 5071 exists 
+2017-11-14 15:02:34,430  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 195/60R14 86H
+2017-11-14 15:02:34,440  mlt-spider.py  [line:60] INFO  tyreID: 5122 exists 
+2017-11-14 15:02:34,440  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B250 155/65R13 73H
+2017-11-14 15:02:34,447  mlt-spider.py  [line:60] INFO  tyreID: 5397 exists 
+2017-11-14 15:02:34,448  mlt-spider.py  [line:30] INFO  streak:TURANZA ER33 
+2017-11-14 15:02:35,012  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/55R16 91V
+2017-11-14 15:02:35,016  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 215/65R16 98H
+2017-11-14 15:02:35,019  mlt-spider.py  [line:60] INFO  tyreID: 4937 exists 
+2017-11-14 15:02:35,020  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/65R15 91V
+2017-11-14 15:02:35,023  mlt-spider.py  [line:60] INFO  tyreID: 6406 exists 
+2017-11-14 15:02:35,023  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 225/65R17 102H
+2017-11-14 15:02:35,033  mlt-spider.py  [line:60] INFO  tyreID: 4926 exists 
+2017-11-14 15:02:35,033  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/60R16 95H
+2017-11-14 15:02:35,035  mlt-spider.py  [line:60] INFO  tyreID: 6407 exists 
+2017-11-14 15:02:35,036  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 235/55R18 100H
+2017-11-14 15:02:35,046  mlt-spider.py  [line:60] INFO  tyreID: 4947 exists 
+2017-11-14 15:02:35,051  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/55R15 85V
+2017-11-14 15:02:35,051  mlt-spider.py  [line:60] INFO  tyreID: 6414 exists 
+2017-11-14 15:02:35,052  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 245/55R19 103V
+2017-11-14 15:02:35,065  mlt-spider.py  [line:60] INFO  tyreID: 4920 exists 
+2017-11-14 15:02:35,065  mlt-spider.py  [line:60] INFO  tyreID: 6416 exists 
+2017-11-14 15:02:35,065  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 195/60R15 88V
+2017-11-14 15:02:35,065  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 255/55R18 109V
+2017-11-14 15:02:35,081  mlt-spider.py  [line:60] INFO  tyreID: 4922 exists 
+2017-11-14 15:02:35,084  mlt-spider.py  [line:60] INFO  tyreID: 6415 exists 
+2017-11-14 15:02:35,084  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 175/65R14 82H
+2017-11-14 15:02:35,084  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 225/60R17 99V
+2017-11-14 15:02:35,095  mlt-spider.py  [line:60] INFO  tyreID: 4907 exists 
+2017-11-14 15:02:35,095  mlt-spider.py  [line:60] INFO  tyreID: 6404 exists 
+2017-11-14 15:02:35,095  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/55R16 93V
+2017-11-14 15:02:35,095  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 215/70R16 100H
+2017-11-14 15:02:35,104  mlt-spider.py  [line:60] INFO  tyreID: 4942 exists 
+2017-11-14 15:02:35,105  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/65R15 94V
+2017-11-14 15:02:35,108  mlt-spider.py  [line:60] INFO  tyreID: 6412 exists 
+2017-11-14 15:02:35,108  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear 御乘SUV EfficientGrip SUV 235/55R19 105V
+2017-11-14 15:02:35,115  mlt-spider.py  [line:60] INFO  tyreID: 4932 exists 
+2017-11-14 15:02:35,115  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 185/55R15 86H
+2017-11-14 15:02:35,121  mlt-spider.py  [line:60] INFO  tyreID: 6417 exists 
+2017-11-14 15:02:35,121  mlt-spider.py  [line:30] INFO  streak:Excellence 
+2017-11-14 15:02:35,125  mlt-spider.py  [line:60] INFO  tyreID: 6179 exists 
+2017-11-14 15:02:35,125  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 215/70R15 98H
+2017-11-14 15:02:35,131  mlt-spider.py  [line:60] INFO  tyreID: 4935 exists 
+2017-11-14 15:02:35,131  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN ENERGY XM2 韧悦 205/60R15 91V
+2017-11-14 15:02:35,137  mlt-spider.py  [line:60] INFO  tyreID: 6180 exists 
+2017-11-14 15:02:35,138  mlt-spider.py  [line:30] INFO  streak:LATITUDE Tour HP 
+2017-11-14 15:02:35,318  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA501 195/55R15 85V
+2017-11-14 15:02:35,326  mlt-spider.py  [line:60] INFO  tyreID: 6432 exists 
+2017-11-14 15:02:35,326  mlt-spider.py  [line:30] INFO  streak:MA708 
+2017-11-14 15:02:35,476  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli SCORPION VERDE 蝎子VERDE 255/60R17 106V
+2017-11-14 15:02:35,490  mlt-spider.py  [line:60] INFO  tyreID: 6349 exists 
+2017-11-14 15:02:35,490  mlt-spider.py  [line:30] INFO  streak:P7 
+2017-11-14 15:02:36,187  mlt-spider.py  [line:44] INFO  name:马牌 Continental MC5 FR 205/55R16 91V
+2017-11-14 15:02:36,194  mlt-spider.py  [line:60] INFO  tyreID: 6254 exists 
+2017-11-14 15:02:36,196  mlt-spider.py  [line:44] INFO  name:马牌 Continental MC5 FR 215/55R16 93V
+2017-11-14 15:02:36,203  mlt-spider.py  [line:60] INFO  tyreID: 6256 exists 
+2017-11-14 15:02:36,207  mlt-spider.py  [line:44] INFO  name:马牌 Continental MC5 FR 225/55R17 97V
+2017-11-14 15:02:36,214  mlt-spider.py  [line:60] INFO  tyreID: 6257 exists 
+2017-11-14 15:02:36,214  mlt-spider.py  [line:44] INFO  name:马牌 Continental MC5 FR 225/55R16 95V
+2017-11-14 15:02:36,223  mlt-spider.py  [line:60] INFO  tyreID: 6255 exists 
+2017-11-14 15:02:36,223  mlt-spider.py  [line:30] INFO  streak:CPC2  
+2017-11-14 15:02:36,661  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 215/55R17 94V 国产
+2017-11-14 15:02:36,690  mlt-spider.py  [line:60] INFO  tyreID: 4980 exists 
+2017-11-14 15:02:36,697  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 205/65R16 95H
+2017-11-14 15:02:36,757  mlt-spider.py  [line:60] INFO  tyreID: 4978 exists 
+2017-11-14 15:02:36,763  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 205/65R15 94V
+2017-11-14 15:02:36,789  mlt-spider.py  [line:60] INFO  tyreID: 4977 exists 
+2017-11-14 15:02:36,789  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 235/45R18 94W
+2017-11-14 15:02:36,816  mlt-spider.py  [line:60] INFO  tyreID: 4984 exists 
+2017-11-14 15:02:36,822  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER33 235/50R17 96W
+2017-11-14 15:02:36,848  mlt-spider.py  [line:60] INFO  tyreID: 4982 exists 
+2017-11-14 15:02:36,854  mlt-spider.py  [line:30] INFO  streak:TURANZA ER300 
+2017-11-14 15:02:37,332  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Tour HP DT 揽途 HP 215/65R16 102H
+2017-11-14 15:02:37,342  mlt-spider.py  [line:60] INFO  tyreID: 5320 exists 
+2017-11-14 15:02:37,342  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Tour HP 揽途 225/65R17 102H
+2017-11-14 15:02:37,351  mlt-spider.py  [line:60] INFO  tyreID: 5490 exists 
+2017-11-14 15:02:37,352  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Tour HP AO 揽途 235/60R18 103H
+2017-11-14 15:02:37,362  mlt-spider.py  [line:60] INFO  tyreID: 5346 exists 
+2017-11-14 15:02:37,364  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Tour HP 揽途 255/55R19 111V
+2017-11-14 15:02:37,372  mlt-spider.py  [line:60] INFO  tyreID: 5360 exists 
+2017-11-14 15:02:37,374  mlt-spider.py  [line:30] INFO  streak:PRIMACY LC 
+2017-11-14 15:02:37,507  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA708 185/65R14 86H
+2017-11-14 15:02:37,516  mlt-spider.py  [line:60] INFO  tyreID: 6426 exists 
+2017-11-14 15:02:37,516  mlt-spider.py  [line:30] INFO  streak:MA202 
+2017-11-14 15:02:37,697  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 225/60R16 98V
+2017-11-14 15:02:37,707  mlt-spider.py  [line:60] INFO  tyreID: 5164 exists 
+2017-11-14 15:02:37,707  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 235/45R17 94Y
+2017-11-14 15:02:37,717  mlt-spider.py  [line:60] INFO  tyreID: 5166 exists 
+2017-11-14 15:02:37,717  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 225/55R16 95Y
+2017-11-14 15:02:37,729  mlt-spider.py  [line:60] INFO  tyreID: 5161 exists 
+2017-11-14 15:02:37,729  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence  三能 235/60R18 103W
+2017-11-14 15:02:37,736  mlt-spider.py  [line:60] INFO  tyreID: 5657 exists 
+2017-11-14 15:02:37,737  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 245/45R17 95Y
+2017-11-14 15:02:37,746  mlt-spider.py  [line:60] INFO  tyreID: 5167 exists 
+2017-11-14 15:02:37,746  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 225/55R17 97V
+2017-11-14 15:02:37,753  mlt-spider.py  [line:60] INFO  tyreID: 5165 exists 
+2017-11-14 15:02:37,755  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 225/50R17 94Y
+2017-11-14 15:02:37,769  mlt-spider.py  [line:60] INFO  tyreID: 5521 exists 
+2017-11-14 15:02:37,770  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Excellence 三能 215/50R17 91W
+2017-11-14 15:02:37,783  mlt-spider.py  [line:60] INFO  tyreID: 5162 exists 
+2017-11-14 15:02:37,783  mlt-spider.py  [line:30] INFO  streak:Eagle NCT5 
+2017-11-14 15:02:37,858  mlt-spider.py  [line:44] INFO  name:倍耐力 Pirelli P7 入门级运动轮胎 225/45R17 91W
+2017-11-14 15:02:37,865  mlt-spider.py  [line:60] INFO  tyreID: 6311 exists 
+2017-11-14 15:02:37,865  mlt-spider.py  [line:111] INFO  finish:倍耐力轮胎
+2017-11-14 15:02:37,869  mlt-spider.py  [line:128] INFO  韩泰轮胎 开始爬取
+2017-11-14 15:02:38,411  mlt-spider.py  [line:44] INFO  name:马牌 Continental CPC2 195/60R14 86H
+2017-11-14 15:02:38,417  mlt-spider.py  [line:60] INFO  tyreID: 5601 exists 
+2017-11-14 15:02:38,420  mlt-spider.py  [line:44] INFO  name:马牌 Continental CPC2 225/55R16 95W
+2017-11-14 15:02:38,430  mlt-spider.py  [line:60] INFO  tyreID: 4824 exists 
+2017-11-14 15:02:38,430  mlt-spider.py  [line:44] INFO  name:马牌 Continental CPC2 SSR 225/55R17 97Y
+2017-11-14 15:02:38,440  mlt-spider.py  [line:60] INFO  tyreID: 6216 exists 
+2017-11-14 15:02:38,440  mlt-spider.py  [line:30] INFO  streak:CCC UHP 
+2017-11-14 15:02:38,964  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 205/55R16 91V
+2017-11-14 15:02:38,971  mlt-spider.py  [line:60] INFO  tyreID: 4976 exists 
+2017-11-14 15:02:38,971  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 195/65R15 91H
+2017-11-14 15:02:38,980  mlt-spider.py  [line:60] INFO  tyreID: 4975 exists 
+2017-11-14 15:02:38,982  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA泰然者 ER300 205/60R16 92V
+2017-11-14 15:02:38,990  mlt-spider.py  [line:60] INFO  tyreID: 5392 exists 
+2017-11-14 15:02:38,992  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER300 * RFT 225/55R17 97Y
+2017-11-14 15:02:38,999  mlt-spider.py  [line:60] INFO  tyreID: 6385 exists 
+2017-11-14 15:02:38,999  mlt-spider.py  [line:30] INFO  streak:A/T698 
+2017-11-14 15:02:39,088  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA202 185/65R15 88H
+2017-11-14 15:02:39,096  mlt-spider.py  [line:60] INFO  tyreID: 6430 exists 
+2017-11-14 15:02:39,096  mlt-spider.py  [line:30] INFO  streak:MA651 
+2017-11-14 15:02:39,381  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PRIMACY LC DT 215/55R17 94V
+2017-11-14 15:02:39,388  mlt-spider.py  [line:60] INFO  tyreID: 5314 exists 
+2017-11-14 15:02:39,390  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PRIMACY LC 215/50R17 91W
+2017-11-14 15:02:39,394  mlt-spider.py  [line:60] INFO  tyreID: 5912 exists 
+2017-11-14 15:02:39,395  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PRIMACY LC 215/65R16 98H
+2017-11-14 15:02:39,403  mlt-spider.py  [line:60] INFO  tyreID: 5311 exists 
+2017-11-14 15:02:39,404  mlt-spider.py  [line:30] INFO  streak:PILOT PRECEDA PP2 
+2017-11-14 15:02:39,661  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 195/65R15 91V
+2017-11-14 15:02:39,667  mlt-spider.py  [line:60] INFO  tyreID: 4791 exists 
+2017-11-14 15:02:39,670  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 215/55R16 93W
+2017-11-14 15:02:39,678  mlt-spider.py  [line:60] INFO  tyreID: 5176 exists 
+2017-11-14 15:02:39,678  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 三道沟 205/55R16 91V
+2017-11-14 15:02:39,690  mlt-spider.py  [line:60] INFO  tyreID: 5148 exists 
+2017-11-14 15:02:39,690  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师  195/55R15 85V
+2017-11-14 15:02:39,697  mlt-spider.py  [line:60] INFO  tyreID: 5513 exists 
+2017-11-14 15:02:39,697  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 225/55R16 95Y
+2017-11-14 15:02:39,707  mlt-spider.py  [line:60] INFO  tyreID: 5177 exists 
+2017-11-14 15:02:39,707  mlt-spider.py  [line:30] INFO  streak:Wrangler HP AW  
+2017-11-14 15:02:40,184  mlt-spider.py  [line:44] INFO  name:马牌 Continental CCC UHP FR SSR * 255/50R19 107V
+2017-11-14 15:02:40,194  mlt-spider.py  [line:60] INFO  tyreID: 4887 exists 
+2017-11-14 15:02:40,194  mlt-spider.py  [line:44] INFO  name:马牌 Continental CCC UHP FR MO ML  285/45R19 107W
+2017-11-14 15:02:40,203  mlt-spider.py  [line:60] INFO  tyreID: 5581 exists 
+2017-11-14 15:02:40,203  mlt-spider.py  [line:30] INFO  streak:CSC3  
+2017-11-14 15:02:40,789  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA651 215/55R16 93V
+2017-11-14 15:02:40,799  mlt-spider.py  [line:60] INFO  tyreID: 6439 exists 
+2017-11-14 15:02:40,799  mlt-spider.py  [line:30] INFO  streak:MA652 
+2017-11-14 15:02:40,816  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 （白） A/T698 245/75R16 104S
+2017-11-14 15:02:40,825  mlt-spider.py  [line:60] INFO  tyreID: 5920 exists 
+2017-11-14 15:02:40,826  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 A/T698 235/75R15 105S
+2017-11-14 15:02:40,835  mlt-spider.py  [line:60] INFO  tyreID: 5923 exists 
+2017-11-14 15:02:40,835  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 A/T698 265/65R17 112T
+2017-11-14 15:02:40,842  mlt-spider.py  [line:60] INFO  tyreID: 5926 exists 
+2017-11-14 15:02:40,844  mlt-spider.py  [line:30] INFO  streak:MW01 
+2017-11-14 15:02:41,048  mlt-spider.py  [line:30] INFO  streak:H426 
+2017-11-14 15:02:41,233  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PILOT PRECEDA PP2 AO 235/60R18 103W
+2017-11-14 15:02:41,242  mlt-spider.py  [line:60] INFO  tyreID: 6169 exists 
+2017-11-14 15:02:41,242  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PRECEDA PP2 235/55R19 101W
+2017-11-14 15:02:41,250  mlt-spider.py  [line:60] INFO  tyreID: 5439 exists 
+2017-11-14 15:02:41,250  mlt-spider.py  [line:30] INFO  streak:Diamaris 
+2017-11-14 15:02:41,687  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Wrangler HP All Weather 255/55R19 111V
+2017-11-14 15:02:41,697  mlt-spider.py  [line:60] INFO  tyreID: 5185 exists 
+2017-11-14 15:02:41,697  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Wrangler HP All Weather 215/70R16 100H
+2017-11-14 15:02:41,706  mlt-spider.py  [line:60] INFO  tyreID: 5531 exists 
+2017-11-14 15:02:41,706  mlt-spider.py  [line:30] INFO  streak:EfficientGrip 
+2017-11-14 15:02:41,937  mlt-spider.py  [line:44] INFO  name:马牌 Continental CSC3 FR 235/45R17 94W
+2017-11-14 15:02:41,946  mlt-spider.py  [line:60] INFO  tyreID: 6220 exists 
+2017-11-14 15:02:41,946  mlt-spider.py  [line:44] INFO  name:马牌 Continental CSC3 SSR * 245/45R19 98W
+2017-11-14 15:02:41,954  mlt-spider.py  [line:60] INFO  tyreID: 5911 exists 
+2017-11-14 15:02:41,956  mlt-spider.py  [line:30] INFO  streak:C4*4C 
+2017-11-14 15:02:43,016  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA652 185/65R14 86H
+2017-11-14 15:02:43,026  mlt-spider.py  [line:60] INFO  tyreID: 6425 exists 
+2017-11-14 15:02:43,026  mlt-spider.py  [line:30] INFO  streak:MA656 
+2017-11-14 15:02:43,061  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone MW01 195/60R14 86H
+2017-11-14 15:02:43,069  mlt-spider.py  [line:60] INFO  tyreID: 6034 exists 
+2017-11-14 15:02:43,071  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone MW01 195/60R15 88H
+2017-11-14 15:02:43,078  mlt-spider.py  [line:60] INFO  tyreID: 7047 exists 
+2017-11-14 15:02:43,078  mlt-spider.py  [line:30] INFO  streak:H/L400 
+2017-11-14 15:02:43,193  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN Diamaris 235/60R18 103V
+2017-11-14 15:02:43,200  mlt-spider.py  [line:60] INFO  tyreID: 5345 exists 
+2017-11-14 15:02:43,200  mlt-spider.py  [line:30] INFO  streak:PILOT PRECEDA 
+2017-11-14 15:02:43,552  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 215/65R15 96V
+2017-11-14 15:02:43,552  mlt-spider.py  [line:108] INFO  跳过/product/5417.html
+2017-11-14 15:02:43,552  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 195/65R15 91T
+2017-11-14 15:02:43,553  mlt-spider.py  [line:108] INFO  跳过/product/5011.html
+2017-11-14 15:02:43,553  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426（XL） 225/45R18 95V
+2017-11-14 15:02:43,555  mlt-spider.py  [line:108] INFO  跳过/product/5031.html
+2017-11-14 15:02:43,555  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 185/65R14 86H
+2017-11-14 15:02:43,555  mlt-spider.py  [line:108] INFO  跳过/product/5004.html
+2017-11-14 15:02:43,556  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 215/70R16 100H
+2017-11-14 15:02:43,556  mlt-spider.py  [line:108] INFO  跳过/product/5026.html
+2017-11-14 15:02:43,558  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 175/70R14 84T
+2017-11-14 15:02:43,558  mlt-spider.py  [line:108] INFO  跳过/product/6283.html
+2017-11-14 15:02:43,559  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 195/60R15 88H
+2017-11-14 15:02:43,559  mlt-spider.py  [line:108] INFO  跳过/product/5008.html
+2017-11-14 15:02:43,559  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 215/60R16 95V
+2017-11-14 15:02:43,561  mlt-spider.py  [line:108] INFO  跳过/product/5022.html
+2017-11-14 15:02:43,562  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 205/55R16 91H
+2017-11-14 15:02:43,563  mlt-spider.py  [line:108] INFO  跳过/product/5017.html
+2017-11-14 15:02:43,563  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 185/65R15 88T
+2017-11-14 15:02:43,565  mlt-spider.py  [line:108] INFO  跳过/product/5005.html
+2017-11-14 15:02:43,565  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 225/60R17 99H
+2017-11-14 15:02:43,565  mlt-spider.py  [line:108] INFO  跳过/product/6374.html
+2017-11-14 15:02:43,566  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 H426 205/50R16 87H/V
+2017-11-14 15:02:43,566  mlt-spider.py  [line:108] INFO  跳过/product/5014.html
+2017-11-14 15:02:43,568  mlt-spider.py  [line:30] INFO  streak:K715 
+2017-11-14 15:02:43,937  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear EfficientGrip 御乘 215/50R17 91V
+2017-11-14 15:02:43,946  mlt-spider.py  [line:60] INFO  tyreID: 5171 exists 
+2017-11-14 15:02:43,946  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear EfficientGrip 御乘 225/50R17 94V
+2017-11-14 15:02:43,956  mlt-spider.py  [line:60] INFO  tyreID: 5668 exists 
+2017-11-14 15:02:43,956  mlt-spider.py  [line:30] INFO  streak:Eagle F1 GS-D3 
+2017-11-14 15:02:44,141  mlt-spider.py  [line:44] INFO  name:马牌 Continental C4*4C 215/65R16 98H
+2017-11-14 15:02:44,150  mlt-spider.py  [line:60] INFO  tyreID: 4822 exists 
+2017-11-14 15:02:44,150  mlt-spider.py  [line:30] INFO  streak:CSC2  
+2017-11-14 15:02:44,724  mlt-spider.py  [line:44] INFO  name:玛吉斯 MAXXIS MA656 195/60R14 86H
+2017-11-14 15:02:44,739  mlt-spider.py  [line:60] INFO  tyreID: 6428 exists 
+2017-11-14 15:02:44,739  mlt-spider.py  [line:111] INFO  finish:玛吉斯轮胎
+2017-11-14 15:02:44,742  mlt-spider.py  [line:128] INFO  固铂轮胎 开始爬取
+2017-11-14 15:02:44,875  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/L400 225/65R17 101/102H
+2017-11-14 15:02:44,917  mlt-spider.py  [line:60] INFO  tyreID: 5115 exists 
+2017-11-14 15:02:44,917  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/L400 245/55R19 103S
+2017-11-14 15:02:44,926  mlt-spider.py  [line:60] INFO  tyreID: 5400 exists 
+2017-11-14 15:02:44,927  mlt-spider.py  [line:30] INFO  streak:B391 
+2017-11-14 15:02:45,124  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PILOT PRECEDA 225/50R17 94Y
+2017-11-14 15:02:45,140  mlt-spider.py  [line:60] INFO  tyreID: 4960 exists 
+2017-11-14 15:02:45,141  mlt-spider.py  [line:30] INFO  streak:PRIMACY HP 
+2017-11-14 15:02:45,615  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 175/65R15 84T
+2017-11-14 15:02:45,615  mlt-spider.py  [line:108] INFO  跳过/product/5212.html
+2017-11-14 15:02:45,617  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R13 82T
+2017-11-14 15:02:45,617  mlt-spider.py  [line:108] INFO  跳过/product/5213.html
+2017-11-14 15:02:45,618  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R14 84T
+2017-11-14 15:02:45,618  mlt-spider.py  [line:108] INFO  跳过/product/6379.html
+2017-11-14 15:02:45,619  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 175/70R14 84H
+2017-11-14 15:02:45,619  mlt-spider.py  [line:108] INFO  跳过/product/5214.html
+2017-11-14 15:02:45,621  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 165/70R14 81T
+2017-11-14 15:02:45,625  mlt-spider.py  [line:108] INFO  跳过/product/5210.html
+2017-11-14 15:02:45,625  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 185/70R14 88T
+2017-11-14 15:02:45,627  mlt-spider.py  [line:108] INFO  跳过/product/5216.html
+2017-11-14 15:02:45,628  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 165/70R13 79T
+2017-11-14 15:02:45,628  mlt-spider.py  [line:108] INFO  跳过/product/5209.html
+2017-11-14 15:02:45,628  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 175/65R14 82H
+2017-11-14 15:02:45,628  mlt-spider.py  [line:108] INFO  跳过/product/5211.html
+2017-11-14 15:02:45,630  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 205/70R15 96T
+2017-11-14 15:02:45,630  mlt-spider.py  [line:108] INFO  跳过/product/5220.html
+2017-11-14 15:02:45,631  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K715 195/70R14 91H
+2017-11-14 15:02:45,631  mlt-spider.py  [line:108] INFO  跳过/product/5218.html
+2017-11-14 15:02:45,631  mlt-spider.py  [line:30] INFO  streak:RA23 
+2017-11-14 15:02:45,963  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle F1 GS-D3 225/55R17 97V
+2017-11-14 15:02:45,970  mlt-spider.py  [line:60] INFO  tyreID: 5191 exists 
+2017-11-14 15:02:45,971  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle F1 GS-D3 275/45R20 110Y
+2017-11-14 15:02:45,980  mlt-spider.py  [line:60] INFO  tyreID: 5297 exists 
+2017-11-14 15:02:45,982  mlt-spider.py  [line:30] INFO  streak:Assurance Fuelmax 
+2017-11-14 15:02:46,036  mlt-spider.py  [line:44] INFO  name:马牌 Continental CSC2 FR MO ML 255/45R18 99Y
+2017-11-14 15:02:46,042  mlt-spider.py  [line:60] INFO  tyreID: 4857 exists 
+2017-11-14 15:02:46,043  mlt-spider.py  [line:111] INFO  finish:马牌轮胎
+2017-11-14 15:02:46,046  mlt-spider.py  [line:139] INFO  finish spider!
+2017-11-14 15:02:46,555  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B391 175/65R14 82T
+2017-11-14 15:02:46,565  mlt-spider.py  [line:60] INFO  tyreID: 5075 exists 
+2017-11-14 15:02:46,565  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列 B391 185/65R14 86H
+2017-11-14 15:02:46,575  mlt-spider.py  [line:60] INFO  tyreID: 5076 exists 
+2017-11-14 15:02:46,575  mlt-spider.py  [line:30] INFO  streak:TURANZA ER370 
+2017-11-14 15:02:46,631  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN PRIMACY HP MO 255/45R18 99Y
+2017-11-14 15:02:46,638  mlt-spider.py  [line:60] INFO  tyreID: 5446 exists 
+2017-11-14 15:02:46,640  mlt-spider.py  [line:30] INFO  streak:LATITUDE Tour 
+2017-11-14 15:02:46,691  mlt-spider.py  [line:30] INFO  streak:ZEON ASP 
+2017-11-14 15:02:47,247  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 215/65R16 98H
+2017-11-14 15:02:47,247  mlt-spider.py  [line:108] INFO  跳过/product/5228.html
+2017-11-14 15:02:47,249  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 235/60R18 103H
+2017-11-14 15:02:47,249  mlt-spider.py  [line:108] INFO  跳过/product/5232.html
+2017-11-14 15:02:47,249  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/65R17 103H
+2017-11-14 15:02:47,250  mlt-spider.py  [line:108] INFO  跳过/product/5234.html
+2017-11-14 15:02:47,252  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/60R18 105H
+2017-11-14 15:02:47,253  mlt-spider.py  [line:108] INFO  跳过/product/5233.html
+2017-11-14 15:02:47,253  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 225/65R17 102S
+2017-11-14 15:02:47,253  mlt-spider.py  [line:108] INFO  跳过/product/5230.html
+2017-11-14 15:02:47,253  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 225/70R16 103T
+2017-11-14 15:02:47,255  mlt-spider.py  [line:108] INFO  跳过/product/6403.html
+2017-11-14 15:02:47,255  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 P235/65R17 104S
+2017-11-14 15:02:47,256  mlt-spider.py  [line:108] INFO  跳过/product/5237.html
+2017-11-14 15:02:47,256  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 245/65R17 107H
+2017-11-14 15:02:47,256  mlt-spider.py  [line:108] INFO  跳过/product/6199.html
+2017-11-14 15:02:47,259  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 达耐普系列 RA23 P215/75R15 100S
+2017-11-14 15:02:47,259  mlt-spider.py  [line:108] INFO  跳过/product/5236.html
+2017-11-14 15:02:47,259  mlt-spider.py  [line:30] INFO  streak:K415 
+2017-11-14 15:02:47,325  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Assurance Fuelmax 安节轮 205/60R16 92V
+2017-11-14 15:02:47,334  mlt-spider.py  [line:60] INFO  tyreID: 5665 exists 
+2017-11-14 15:02:47,335  mlt-spider.py  [line:30] INFO  streak:Eagle NCT5四道沟 
+2017-11-14 15:02:48,019  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 ER370 225/50R17 98V
+2017-11-14 15:02:48,026  mlt-spider.py  [line:60] INFO  tyreID: 4993 exists 
+2017-11-14 15:02:48,026  mlt-spider.py  [line:30] INFO  streak:R600B 
+2017-11-14 15:02:48,322  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Tour 揽途 225/65R17 102T
+2017-11-14 15:02:48,329  mlt-spider.py  [line:60] INFO  tyreID: 5331 exists 
+2017-11-14 15:02:48,331  mlt-spider.py  [line:30] INFO  streak:LATITUDE Cross 
+2017-11-14 15:02:48,707  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP XL 225/50R17 98W
+2017-11-14 15:02:48,707  mlt-spider.py  [line:108] INFO  跳过/product/6520.html
+2017-11-14 15:02:48,709  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 235/60R16 100W
+2017-11-14 15:02:48,709  mlt-spider.py  [line:108] INFO  跳过/product/6517.html
+2017-11-14 15:02:48,710  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP XL 215/50R17 95W
+2017-11-14 15:02:48,710  mlt-spider.py  [line:108] INFO  跳过/product/6518.html
+2017-11-14 15:02:48,710  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 215/55R17 94W
+2017-11-14 15:02:48,710  mlt-spider.py  [line:108] INFO  跳过/product/6519.html
+2017-11-14 15:02:48,711  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 225/55R17 101W
+2017-11-14 15:02:48,711  mlt-spider.py  [line:108] INFO  跳过/product/6521.html
+2017-11-14 15:02:48,713  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 225/60R17 99W
+2017-11-14 15:02:48,714  mlt-spider.py  [line:108] INFO  跳过/product/6522.html
+2017-11-14 15:02:48,714  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 235/55R17 99W
+2017-11-14 15:02:48,716  mlt-spider.py  [line:108] INFO  跳过/product/6523.html
+2017-11-14 15:02:48,716  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 245/45R17 95W
+2017-11-14 15:02:48,717  mlt-spider.py  [line:108] INFO  跳过/product/6524.html
+2017-11-14 15:02:48,717  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 235/60R18 103W
+2017-11-14 15:02:48,717  mlt-spider.py  [line:108] INFO  跳过/product/6525.html
+2017-11-14 15:02:48,717  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ASP 245/50R18 100W
+2017-11-14 15:02:48,719  mlt-spider.py  [line:108] INFO  跳过/product/6526.html
+2017-11-14 15:02:48,719  mlt-spider.py  [line:30] INFO  streak:ZEON ATP 
+2017-11-14 15:02:48,992  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle NCT5 配套大师 四道沟 205/55R16 91V
+2017-11-14 15:02:49,002  mlt-spider.py  [line:60] INFO  tyreID: 5149 exists 
+2017-11-14 15:02:49,002  mlt-spider.py  [line:30] INFO  streak:Eagle RSA 
+2017-11-14 15:02:49,265  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 185/60R14 82H
+2017-11-14 15:02:49,265  mlt-spider.py  [line:108] INFO  跳过/product/6398.html
+2017-11-14 15:02:49,266  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 205/55R16 91V
+2017-11-14 15:02:49,266  mlt-spider.py  [line:108] INFO  跳过/product/5201.html
+2017-11-14 15:02:49,266  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 205/60R16 92V
+2017-11-14 15:02:49,267  mlt-spider.py  [line:108] INFO  跳过/product/5202.html
+2017-11-14 15:02:49,267  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 215/65R16 98H
+2017-11-14 15:02:49,269  mlt-spider.py  [line:108] INFO  跳过/product/5203.html
+2017-11-14 15:02:49,269  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 175/65R14 82H
+2017-11-14 15:02:49,269  mlt-spider.py  [line:108] INFO  跳过/product/5194.html
+2017-11-14 15:02:49,270  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 185/65R14 86T
+2017-11-14 15:02:49,270  mlt-spider.py  [line:108] INFO  跳过/product/6405.html
+2017-11-14 15:02:49,272  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 195/60R14 86H
+2017-11-14 15:02:49,272  mlt-spider.py  [line:108] INFO  跳过/product/6399.html
+2017-11-14 15:02:49,273  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 XL 205/45R16 83H
+2017-11-14 15:02:49,273  mlt-spider.py  [line:108] INFO  跳过/product/5200.html
+2017-11-14 15:02:49,273  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K415 185/65R15 88H
+2017-11-14 15:02:49,273  mlt-spider.py  [line:108] INFO  跳过/product/5197.html
+2017-11-14 15:02:49,275  mlt-spider.py  [line:30] INFO  streak:K407 
+2017-11-14 15:02:49,344  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone 经济系列  R600B 165/70R13 79S
+2017-11-14 15:02:49,351  mlt-spider.py  [line:60] INFO  tyreID: 6042 exists 
+2017-11-14 15:02:49,351  mlt-spider.py  [line:30] INFO  streak:POTENZA RE080 
+2017-11-14 15:02:49,578  mlt-spider.py  [line:44] INFO  name:米其林 MICHELIN LATITUDE Cross 245/70R16 111T
+2017-11-14 15:02:49,588  mlt-spider.py  [line:60] INFO  tyreID: 5324 exists 
+2017-11-14 15:02:49,588  mlt-spider.py  [line:111] INFO  finish:米其林轮胎
+2017-11-14 15:02:50,029  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ATP 205/60R15 91H
+2017-11-14 15:02:50,030  mlt-spider.py  [line:108] INFO  跳过/product/6507.html
+2017-11-14 15:02:50,030  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES ZEON ATP 205/65R16 95V
+2017-11-14 15:02:50,030  mlt-spider.py  [line:108] INFO  跳过/product/6516.html
+2017-11-14 15:02:50,032  mlt-spider.py  [line:30] INFO  streak:DISCOVERER ATS 
+2017-11-14 15:02:50,082  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear Eagle RSA 235/55R17 99V
+2017-11-14 15:02:50,088  mlt-spider.py  [line:60] INFO  tyreID: 5736 exists 
+2017-11-14 15:02:50,088  mlt-spider.py  [line:30] INFO  streak:Eagle LS2 
+2017-11-14 15:02:50,463  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone POTENZA 搏天族 RE080 185/60R15 84H
+2017-11-14 15:02:50,469  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 205/55R16 91V
+2017-11-14 15:02:50,470  mlt-spider.py  [line:108] INFO  跳过/product/5135.html
+2017-11-14 15:02:50,470  mlt-spider.py  [line:60] INFO  tyreID: 5074 exists 
+2017-11-14 15:02:50,470  mlt-spider.py  [line:30] INFO  streak:H/P SPORT 
+2017-11-14 15:02:50,470  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 195/60R15 88H
+2017-11-14 15:02:50,471  mlt-spider.py  [line:108] INFO  跳过/product/5133.html
+2017-11-14 15:02:50,471  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 195/55R15 85H
+2017-11-14 15:02:50,473  mlt-spider.py  [line:108] INFO  跳过/product/5132.html
+2017-11-14 15:02:50,473  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 205/60R16 92V
+2017-11-14 15:02:50,473  mlt-spider.py  [line:108] INFO  跳过/product/5136.html
+2017-11-14 15:02:50,473  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 185/65R15 88H
+2017-11-14 15:02:50,473  mlt-spider.py  [line:108] INFO  跳过/product/5130.html
+2017-11-14 15:02:50,473  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 185/65R14 86H
+2017-11-14 15:02:50,473  mlt-spider.py  [line:108] INFO  跳过/product/5129.html
+2017-11-14 15:02:50,474  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook K407 195/65R15 91V
+2017-11-14 15:02:50,474  mlt-spider.py  [line:108] INFO  跳过/product/5134.html
+2017-11-14 15:02:50,474  mlt-spider.py  [line:30] INFO  streak:K406 
+2017-11-14 15:02:50,930  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES DISCOVERER ATS 31*10.50R15LT 109R
+2017-11-14 15:02:50,930  mlt-spider.py  [line:108] INFO  跳过/product/6539.html
+2017-11-14 15:02:50,930  mlt-spider.py  [line:44] INFO  name:固铂 COOPERTIRES DISCOVERER ATS 245/70R16 107S
+2017-11-14 15:02:50,930  mlt-spider.py  [line:108] INFO  跳过/product/6546.html
+2017-11-14 15:02:50,930  mlt-spider.py  [line:111] INFO  finish:固铂轮胎
+2017-11-14 15:02:50,950  mlt-spider.py  [line:44] INFO  name:固特异 Goodyear EAGLE LS2 ROF 275/50R20 109H
+2017-11-14 15:02:50,956  mlt-spider.py  [line:60] INFO  tyreID: 5728 exists 
+2017-11-14 15:02:50,956  mlt-spider.py  [line:111] INFO  finish:固特异轮胎
+2017-11-14 15:02:51,285  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone DUELER 动力侠 H/P SPORT 215/60R17 96H
+2017-11-14 15:02:51,292  mlt-spider.py  [line:60] INFO  tyreID: 5114 exists 
+2017-11-14 15:02:51,292  mlt-spider.py  [line:30] INFO  streak:B390 
+2017-11-14 15:02:51,321  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K406 235/60R16 100H
+2017-11-14 15:02:51,321  mlt-spider.py  [line:108] INFO  跳过/product/5092.html
+2017-11-14 15:02:51,321  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K406 215/55R16 93V
+2017-11-14 15:02:51,321  mlt-spider.py  [line:108] INFO  跳过/product/5088.html
+2017-11-14 15:02:51,322  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K406 195/55R15 85V
+2017-11-14 15:02:51,322  mlt-spider.py  [line:108] INFO  跳过/product/5084.html
+2017-11-14 15:02:51,322  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K406 195/65R15 91H
+2017-11-14 15:02:51,322  mlt-spider.py  [line:108] INFO  跳过/product/5086.html
+2017-11-14 15:02:51,322  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 傲特马系列 K406 255/60R18 108H
+2017-11-14 15:02:51,322  mlt-spider.py  [line:108] INFO  跳过/product/5094.html
+2017-11-14 15:02:51,322  mlt-spider.py  [line:30] INFO  streak:RA08 
+2017-11-14 15:02:51,877  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook RA08 165/70R13 79T
+2017-11-14 15:02:51,877  mlt-spider.py  [line:108] INFO  跳过/product/5224.html
+2017-11-14 15:02:51,877  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook RA08 165/70R14 81T
+2017-11-14 15:02:51,878  mlt-spider.py  [line:108] INFO  跳过/product/5225.html
+2017-11-14 15:02:51,878  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook RA08 175/70R13 82T
+2017-11-14 15:02:51,878  mlt-spider.py  [line:108] INFO  跳过/product/5226.html
+2017-11-14 15:02:51,878  mlt-spider.py  [line:30] INFO  streak:H439 
+2017-11-14 15:02:51,888  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone B390 205/65R16 95H
+2017-11-14 15:02:51,895  mlt-spider.py  [line:60] INFO  tyreID: 4989 exists 
+2017-11-14 15:02:51,895  mlt-spider.py  [line:30] INFO  streak:TURANZA EL400 
+2017-11-14 15:02:52,509  mlt-spider.py  [line:44] INFO  name:普利司通 Bridgestone TURANZA 泰然者 EL400 245/45R18 96V
+2017-11-14 15:02:52,519  mlt-spider.py  [line:60] INFO  tyreID: 4995 exists 
+2017-11-14 15:02:52,519  mlt-spider.py  [line:111] INFO  finish:普利司通轮胎
+2017-11-14 15:02:52,525  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook H439 185/60R14 82H
+2017-11-14 15:02:52,525  mlt-spider.py  [line:108] INFO  跳过/product/5038.html
+2017-11-14 15:02:52,525  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook H439 195/60R15 88H
+2017-11-14 15:02:52,525  mlt-spider.py  [line:108] INFO  跳过/product/5040.html
+2017-11-14 15:02:52,525  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook H439 185/60R15 82H
+2017-11-14 15:02:52,525  mlt-spider.py  [line:108] INFO  跳过/product/5039.html
+2017-11-14 15:02:52,525  mlt-spider.py  [line:30] INFO  streak:866 
+2017-11-14 15:02:52,806  mlt-spider.py  [line:44] INFO  name:韩泰 Hankook 万途仕系列 866 185/60R14 82H
+2017-11-14 15:02:52,806  mlt-spider.py  [line:108] INFO  跳过/product/4983.html
+2017-11-14 15:02:52,806  mlt-spider.py  [line:111] INFO  finish:韩泰轮胎
